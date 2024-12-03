@@ -1,0 +1,910 @@
+,AÑO_INGRESO,COMUNA,CONDICION,EGRESO_EM,ESTADO_CIVIL,FECHA_NACIMIENTO,NACIONALIDAD,NOMBRE_COLEGIO,PROMEDIO_LEM,REGION,RUT_CON_DV,SEXO,TIPO COLEGIO,TIPO ESTUDIO,EDAD_INGRESO,desertor
+1066,2020,Talcahuano,Inscrito,1986.0,Soltero,1972-06-05,Chilena,L.De Niñas,5.0,Viii - Bio-Bio,122079007,Femenino,Municipal,Cientifico Humanista,48,True
+562,2020,Talcahuano,Inscrito,2002.0,Soltero,1983-02-03,Chilena,L.Las Salinas,4.9,Viii - Bio-Bio,152239025,Masculino,Municipal,Cientifico Humanista,37,False
+2003,2019,Talcahuano,Inscrito,2018.0,Soltero,2001-01-17,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,152897774,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+11819,2020,Concepción,Inscrito,2018.0,Soltero,2001-02-07,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.6,Viii - Bio-Bio,152898169,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+8331,2022,Concepcion,Inscrito,2001.0,Soltero,1983-06-29,Chilena,L.S. Agustin,5.5,Viii - Bio-Bio,156139564,Masculino,Particular Subvencionado,Cientifico Humanista,39,False
+578,2017,Talcahuano,Inscrito,2004.0,Soltero,1984-09-04,Chilena,L.La Asuncion,4.8,Viii - Bio-Bio,159279979,Masculino,Particular Subvencionado,Cientifico Humanista,33,False
+1619,2019,Maipu,Inscrito,2017.0,Casado,1984-12-28,Chilena,Centro Educ. De Adul. P. Alberto Hurtado,4.7,Rm - Metropolitana,160090723,Masculino,Particular Subvencionado,Cientifico Humanista,35,False
+645,2019,Concepcion,Inscrito,2004.0,Soltero,1987-01-08,Chilena,L.S. Felipe De Arauco,5.6,Viii - Bio-Bio,165668715,Femenino,Municipal,Tecnico Profesional,32,False
+152,2020,San Pedro De La Paz,Inscrito,2007.0,Casado,1987-03-17,Chilena,Luis Alava,4.9,Viii - Bio-Bio,166492866,Femenino,Municipal,Tecnico Profesional,33,False
+5699,2022,Talcahuano,Inscrito,2019.0,Soltero,2001-02-20,Chilena,Almirante Pedro Espina Ritche,5.0,Viii - Bio-Bio,167382134,Masculino,Municipal,Cientifico Humanista,21,False
+51,2021,Concepción,Inscrito,2008.0,Soltero,1988-11-13,Chilena,Ctro. Ed  Adultos Einstein,5.1,Viii - Bio-Bio,170436032,Masculino,Particular,Cientifico Humanista,33,False
+1705,2021,Talcahuano,Inscrito,2006.0,Soltero,1989-05-28,Chilena,L.Las Salinas,5.4,Viii - Bio-Bio,172220290,Masculino,Municipal,Cientifico Humanista,32,False
+1091,2020,Talcahuano,Inscrito,2010.0,Soltero,1989-07-24,Chilena,E.De Adultos Las Americas,5.2,Viii - Bio-Bio,172225845,Masculino,Municipal,Tecnico Profesional,31,False
+150,2018,Penco,Inscrito,2007.0,Soltero,1989-04-15,Chilena,Col.Sta. Teresa De Los Andes,5.3,Viii - Bio-Bio,172333885,Masculino,Particular Subvencionado,Cientifico Humanista,29,False
+5689,2022,Concepción,Inscrito,2008.0,Soltero,1990-04-19,Chilena,Col.Polivalente Camilo Henriquez,5.4,Viii - Bio-Bio,172829619,Femenino,Particular Subvencionado,Cientifico Humanista,32,False
+390,2018,Coronel,Inscrito,2007.0,Soltero,1989-09-17,Chilena,L.Indust. Metodista De Coronel,5.1,Viii - Bio-Bio,173449682,Masculino,Particular Subvencionado,Tecnico Profesional,29,False
+2789,2016,Concepcion,Inscrito,2009.0,Soltero,1990-07-25,Chilena,L.Enrique Molina Garmendia,5.1,Viii - Bio-Bio,173482396,Masculino,Municipal,Cientifico Humanista,26,False
+5342,2022,Coronel,Inscrito,2008.0,Soltero,1990-09-05,Chilena,Coronel,4.8,Viii - Bio-Bio,173491417,Masculino,Municipal,Cientifico Humanista,32,False
+579,2018,Coelemu,Inscrito,2008.0,Soltero,1990-10-15,Chilena,Domingo Ortiz De Rozas,6.2,Viii - Bio-Bio,174891222,Masculino,Municipal,Tecnico Profesional,28,False
+49,2021,Tomé,Inscrito,2011.0,Casado,1990-12-21,Chilena,Colegio De Adultos Hernando De Magallane,4.9,Viii - Bio-Bio,176129255,Masculino,Particular Subvencionado,Cientifico Humanista,31,False
+34,2021,Concepción,Inscrito,2008.0,Soltero,1990-12-22,Chilena,L.Salesiano Domingo Savio,6.1,Viii - Bio-Bio,176135999,Masculino,Particular Subvencionado,Cientifico Humanista,31,False
+285,2021,Llanquihue,Inscrito,2008.0,Soltero,1990-12-12,Chilena,Liceo Industrial Alerce,5.6,X - De Los Lagos,176324848,Masculino,Municipal,Tecnico Profesional,31,False
+1122,2021,San Pedro De La Paz,Inscrito,2006.0,Soltero,1988-11-16,Chilena,L.S. Pedro,5.2,Viii - Bio-Bio,177368164,Femenino,Municipal,Cientifico Humanista,33,False
+1155,2021,Hualpén,Inscrito,2010.0,Soltero,1991-10-10,Chilena,L.Experimental Lucila Godoy Alcayaga,5.0,Viii - Bio-Bio,178449516,Femenino,Municipal,Cientifico Humanista,30,False
+6894,2022,Coronel,Inscrito,2008.0,Soltero,1990-12-26,Chilena,Coronel,5.2,Viii - Bio-Bio,178617591,Masculino,Municipal,Cientifico Humanista,32,False
+2716,2016,Los Angeles,Inscrito,2009.0,Soltero,1991-06-05,Chilena,Senador Enrique Oyarzun,5.7,Viii - Bio-Bio,179419408,Masculino,Municipal,Cientifico Humanista,25,False
+2803,2019,Coronel,Inscrito,2008.0,Soltero,1991-04-20,Chilena,Inst. Humanidades De Coronel,5.0,Viii - Bio-Bio,179693313,Masculino,Particular Subvencionado,Cientifico Humanista,28,False
+2006,2019,Tome,Inscrito,2009.0,Soltero,1992-01-26,Chilena,L.Vicente Alberto Palacios Valdes,6.2,Viii - Bio-Bio,180672737,Masculino,Municipal,Cientifico Humanista,27,False
+12,2016,Hualpen,Inscrito,2010.0,Soltero,1992-02-24,Chilena,Colegio Adventista De Concepcion,5.1,Viii - Bio-Bio,180676171,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+5651,2022,Concepcion,Inscrito,2009.0,Soltero,1992-04-28,Chilena,Lorenzo Arenas Olivo,5.5,Viii - Bio-Bio,180682473,Femenino,Municipal,Tecnico Profesional,30,False
+1406,2020,Talcahuano,Inscrito,2010.0,Soltero,1992-07-27,Chilena,Col.Etchegoyen,5.4,Viii - Bio-Bio,180691553,Masculino,Particular Subvencionado,Cientifico Humanista,28,False
+5724,2022,Talcahuano,Inscrito,2010.0,Soltero,1992-09-17,Chilena,Colegio Amanecer Talcahuano,5.2,Viii - Bio-Bio,180698043,Masculino,Particular Subvencionado,Cientifico Humanista,30,False
+8395,2022,Quilicura,Inscrito,2010.0,Soltero,1992-10-30,Chilena,Col Poliv. Padre Pedro Arrupe Sagrada Fa,6.3,Rm - Metropolitana,180830782,Masculino,Particular Subvencionado,Tecnico Profesional,30,False
+1042,2015,Concepcion,Inscrito,2010.0,Soltero,1991-11-05,Chilena,L.Andalien,5.5,Viii - Bio-Bio,181060697,Femenino,Municipal,Cientifico Humanista,24,False
+5733,2022,Hualqui,Inscrito,2010.0,Soltero,1991-09-09,Chilena,L.Enrique Molina Garmendia,5.2,Viii - Bio-Bio,181062916,Masculino,Municipal,Cientifico Humanista,31,False
+5614,2022,Chiguayante,Inscrito,2009.0,Soltero,1992-04-24,Chilena,L.Chiguayante,6.1,Viii - Bio-Bio,181094168,Masculino,Municipal,Tecnico Profesional,30,False
+5648,2022,Concepción,Inscrito,2010.0,Soltero,1992-10-14,Chilena,Los Acacios,5.4,Viii - Bio-Bio,181111690,Masculino,Particular Subvencionado,Tecnico Profesional,30,False
+1640,2020,Hualqui,Inscrito,2012.0,Soltero,1992-09-22,Chilena,L.S. Bautista De Hualqui,5.3,Viii - Bio-Bio,181114304,Masculino,Municipal,Tecnico Profesional,28,False
+1842,2016,Coronel,Inscrito,2011.0,Soltero,1991-12-18,Chilena,Coronel,4.8,Viii - Bio-Bio,181368640,Masculino,Municipal,Cientifico Humanista,25,False
+585,2018,Concepcion,Inscrito,2010.0,Soltero,1992-02-07,Chilena,L.S. Bautista De Hualqui,5.0,Viii - Bio-Bio,181433132,Masculino,Municipal,Tecnico Profesional,26,False
+1710,2020,Cabrero,Inscrito,2010.0,Soltero,1992-08-27,Chilena,Manuel Aristides Zañartu Zañartu,5.5,Viii - Bio-Bio,181456329,Masculino,Municipal,Cientifico Humanista,28,False
+569,2019,Concepcion,Inscrito,2011.0,Soltero,1992-09-05,Chilena,Renacer Col.Adulto,5.1,Viii - Bio-Bio,181457694,Masculino,Particular Subvencionado,Cientifico Humanista,27,False
+620,2019,San Pedro De La Paz,Inscrito,2010.0,Soltero,1992-10-29,Chilena,L.Indust. Metodista De Coronel,5.1,Viii - Bio-Bio,181466413,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+630,2019,Concepcion,Inscrito,2012.0,Soltero,1992-10-08,Chilena,Aurora De Chile,5.5,Viii - Bio-Bio,181765305,Femenino,Particular Subvencionado,Cientifico Humanista,27,False
+1235,2021,Hualpen,Inscrito,2009.0,Soltero,1992-04-02,Chilena,L.Antonio Varas,5.8,Viii - Bio-Bio,182023000,Masculino,Municipal,Cientifico Humanista,29,False
+1636,2018,Concepcion,Inscrito,2010.0,Soltero,1992-09-11,Chilena,Nuevo Hispano Chileno,5.8,Viii - Bio-Bio,182566446,Masculino,Particular Subvencionado,Cientifico Humanista,26,False
+693,2018,Tome,Inscrito,2010.0,Casado,1993-06-18,Chilena,L.Vicente Alberto Palacios Valdes,5.5,Viii - Bio-Bio,183615904,Femenino,Municipal,Cientifico Humanista,25,False
+1085,2020,Hualpén,Inscrito,2015.0,Soltero,1993-06-26,Chilena,L.Vicente Alberto Palacios Valdes,5.8,Viii - Bio-Bio,183881353,Masculino,Municipal,Cientifico Humanista,27,False
+1356,2020,Talcahuano,Inscrito,2012.0,Soltero,1993-09-09,Chilena,L.Tecnico Profsional Espiritu S.To  0,4.8,Viii - Bio-Bio,183888889,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+1627,2020,Talcahuano,Inscrito,2012.0,Soltero,1993-10-10,Chilena,L.Juan Antonio Rios,5.0,Viii - Bio-Bio,183891820,Masculino,Municipal,Tecnico Profesional,27,False
+1630,2020,Yumbel,Inscrito,2011.0,Soltero,1993-10-18,Chilena,L.La Asuncion,5.0,Viii - Bio-Bio,183892053,Masculino,Particular Subvencionado,Cientifico Humanista,27,False
+5103,2021,Concepcion,Inscrito,2013.0,Soltero,1992-12-17,Chilena,L.Jose Manuel Balmaceda,5.3,Viii - Bio-Bio,184042134,Masculino,Municipal,Cientifico Humanista,29,False
+5486,2016,Coronel,Inscrito,2010.0,Soltero,1993-05-23,Chilena,Inst. Humanidades De Coronel,5.9,Viii - Bio-Bio,184098989,Femenino,Particular Subvencionado,Cientifico Humanista,23,False
+5380,2022,Chiguayante,Inscrito,2012.0,Soltero,1993-07-05,Chilena,L.Obispo S. Miguel  ,5.2,Viii - Bio-Bio,184105756,Masculino,Particular Subvencionado,Cientifico Humanista,29,False
+5669,2022,Concepción,Inscrito,2011.0,Soltero,1993-07-23,Chilena,E. Salesaina S. Jose,6.0,Viii - Bio-Bio,184108720,Masculino,Particular Subvencionado,Tecnico Profesional,29,False
+444,2020,Hualpén,Inscrito,2011.0,Soltero,1993-08-04,Chilena,L.Indust. De La Const. Hernan Val,5.0,Viii - Bio-Bio,184111411,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+551,2019,Concepcion,Inscrito,2013.0,Soltero,1993-09-13,Chilena,L.Padre Alberto Hurtado Cruchaga,5.1,Viii - Bio-Bio,184116731,Masculino,Municipal,Cientifico Humanista,26,False
+1097,2020,Concepción,Inscrito,2012.0,Soltero,1993-12-22,Chilena,Kingston College,4.9,Viii - Bio-Bio,184130114,Masculino,Particular,Cientifico Humanista,27,False
+16,2016,Concepcion,Inscrito,2011.0,Soltero,1993-12-24,Chilena,Corporacion La Araucana,5.1,Viii - Bio-Bio,184130327,Masculino,Particular,Cientifico Humanista,23,False
+1027,2015,Penco,Inscrito,2012.0,Soltero,1993-01-20,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.3,Viii - Bio-Bio,184145553,Femenino,Particular Subvencionado,Cientifico Humanista,22,False
+596,2018,Coronel,Inscrito,2011.0,Soltero,1993-03-25,Chilena,Ctro. Ed  Integrada Adultos,5.7,Viii - Bio-Bio,184153408,Masculino,Municipal,Cientifico Humanista,25,False
+41,2021,Chiguayante,Inscrito,2010.0,Soltero,1993-04-14,Chilena,L.Enrique Molina Garmendia,5.4,Viii - Bio-Bio,184156024,Masculino,Municipal,Cientifico Humanista,28,False
+1204,2021,Chiguayante,Inscrito,2019.0,Soltero,1993-03-03,Chilena,L.Nueva Zelandia,4.9,Viii - Bio-Bio,184157802,Masculino,Municipal,Tecnico Profesional,28,False
+1073,2020,Talcahuano,Inscrito,2011.0,Soltero,1994-01-03,Chilena,Arturo Prat Chacon,5.4,Viii - Bio-Bio,184580373,Femenino,Particular,Cientifico Humanista,26,False
+29,2020,Santiago,Inscrito,2012.0,Soltero,1993-12-08,Chilena,Colegio De Adultos Altazol De Santiago,5.3,Rm - Metropolitana,184661896,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+2634,2017,Talcahuano,Inscrito,2011.0,Soltero,1993-08-03,Chilena,L.La Asuncion,5.3,Viii - Bio-Bio,184914204,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+575,2016,Los Angeles,Inscrito,2013.0,Soltero,1994-03-17,Chilena,Jose Victorino Lastarria,5.4,Viii - Bio-Bio,185711226,Masculino,Municipal,Cientifico Humanista,22,False
+1398,2018,Talcahuano,Inscrito,2011.0,Soltero,1994-04-04,Chilena,L.Las Salinas,5.7,Viii - Bio-Bio,185928594,Masculino,Municipal,Cientifico Humanista,24,False
+11720,2023,Concepción,Inscrito,2011.0,Casado,1994-02-24,Chilena,\N,5.2,Viii - Bio-Bio,186835581,Masculino,Municipal,Tecnico Profesional,29,False
+577,2018,Concepcion,Inscrito,2012.0,Soltero,1994-04-28,Chilena,Adventista,6.1,Viii - Bio-Bio,186840453,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1072,2020,Hualpén,Inscrito,2012.0,Soltero,1994-05-30,Chilena,Ctro. De Educ.  Evangelico De Hualpe,4.9,Viii - Bio-Bio,186844734,Masculino,Particular Subvencionado,Tecnico Profesional,26,False
+1130,2021,Florida,Inscrito,2012.0,Soltero,1994-07-08,Chilena,C.I.E.A.Hualpencillo,4.6,Viii - Bio-Bio,186848756,Masculino,Municipal,Cientifico Humanista,27,False
+1056,2020,Penco,Inscrito,2013.0,Soltero,1994-07-24,Chilena,L.Pencopolitano,4.9,Viii - Bio-Bio,186850157,Masculino,Municipal,Tecnico Profesional,26,False
+24,2020,Talcahuano,Inscrito,2013.0,Soltero,1994-09-13,Chilena,Col.Ingles British Royal School,5.6,Viii - Bio-Bio,186854055,Masculino,Particular Subvencionado,Cientifico Humanista,26,False
+1631,2018,Coelemu,Inscrito,2012.0,Soltero,1994-10-11,Chilena,Garden Play,6.3,Xvi - De Ñuble,186856929,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+5731,2022,Chiguayante,Inscrito,2012.0,Soltero,1994-10-21,Chilena,The Pacific School  ,5.4,Viii - Bio-Bio,187208157,Femenino,Particular Subvencionado,Cientifico Humanista,28,False
+2790,2016,Coronel,Inscrito,2012.0,Soltero,1994-06-19,Chilena,Ctro. Ed  Integrada Adultos,5.3,Viii - Bio-Bio,187454158,Masculino,Municipal,Cientifico Humanista,22,False
+11747,2023,Lota,Inscrito,2014.0,Soltero,1995-01-12,Chilena,Liceo Carlos Cousiño Goyenechea,5.5,Viii - Bio-Bio,187460735,Masculino,Municipal,Cientifico Humanista,28,False
+5504,2019,Puente Alto,Inscrito,2011.0,Soltero,1994-02-27,Chilena,E. Extremadura De Puente Alto,4.9,Rm - Metropolitana,187561922,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+1030,2018,San Pedro De La Paz,Inscrito,2012.0,Soltero,1995-02-13,Chilena,Adventista,5.8,Viii - Bio-Bio,188004180,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1137,2021,Yungay,Inscrito,2012.0,Soltero,1994-06-23,Chilena,Manuel Aristides Zañartu Zañartu,5.6,Xvi - De Ñuble,188061524,Masculino,Municipal,Cientifico Humanista,27,False
+1625,2017,Chiguayante,Inscrito,2011.0,Soltero,1994-03-20,Chilena,Col.Aurora De Chile  ,5.1,Viii - Bio-Bio,188074502,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1168,2021,Chiguayante,Inscrito,2015.0,Soltero,1994-04-15,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.3,Viii - Bio-Bio,188079393,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+2871,2018,Hualpen,Inscrito,2012.0,Soltero,1994-04-29,Chilena,L.Enrique Molina Garmendia,5.5,Viii - Bio-Bio,188087159,Masculino,Municipal,Cientifico Humanista,24,False
+1060,2020,Hualpén,Inscrito,2012.0,Soltero,1994-10-11,Chilena,L.De Niñas,5.8,Viii - Bio-Bio,188104746,Femenino,Municipal,Cientifico Humanista,26,False
+17,2020,Hualpén,Inscrito,2013.0,Soltero,1995-01-28,Chilena,Corporacion La Araucana,5.4,Viii - Bio-Bio,188164218,Masculino,Particular,Cientifico Humanista,25,False
+11816,2023,Coronel,Inscrito,2012.0,Soltero,1995-04-06,Chilena,Liceo Coronel Antonio Salamanca,6.0,Viii - Bio-Bio,188172873,Masculino,Municipal,Cientifico Humanista,28,False
+5720,2022,Coronel,Inscrito,2014.0,Soltero,1995-09-21,Chilena,L.Indust. Metodista De Coronel,5.1,Viii - Bio-Bio,188221076,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+666,2018,Coronel,Inscrito,2013.0,Soltero,1995-09-29,Chilena,L.Indust. Metodista De Coronel,5.1,Viii - Bio-Bio,188221211,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1071,2020,Coronel,Inscrito,2013.0,Soltero,1995-10-15,Chilena,L.Comercial Andres Bello Lopez,5.0,Viii - Bio-Bio,188221858,Masculino,Municipal,Tecnico Profesional,25,False
+13,2018,Arauco,Inscrito,2013.0,Soltero,1994-07-25,Chilena,L.S. Francisco De Assis,5.0,Viii - Bio-Bio,188553133,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1035,2016,Arauco,Inscrito,2013.0,Soltero,1995-09-13,Chilena,Inst. S. Jose,5.7,Viii - Bio-Bio,188557244,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+595,2016,Chillan,Inscrito,2010.0,Soltero,1992-10-09,Chilena,L.Domingo Sta. Maria,6.2,Xvi - De Ñuble,189438338,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+2381,2020,Talcahuano,Inscrito,2014.0,Soltero,1994-12-31,Chilena,L.Comercial De Talcahuano,5.0,Viii - Bio-Bio,189619871,Masculino,Municipal,Tecnico Profesional,26,False
+1972,2019,Hualpen,Inscrito,2012.0,Soltero,1995-03-14,Chilena,Marina De Chile,5.0,Viii - Bio-Bio,189620837,Masculino,Municipal,Cientifico Humanista,24,False
+1055,2020,Chiguayante,Inscrito,2014.0,Soltero,1995-10-19,Chilena,Concepcion,5.1,Viii - Bio-Bio,189624395,Masculino,Particular,Cientifico Humanista,25,False
+282,2021,Cañete,Inscrito,2012.0,Soltero,1995-02-06,Chilena,L.Politecnico De Canete,5.3,Viii - Bio-Bio,189656637,Femenino,Particular Subvencionado,Tecnico Profesional,26,False
+1029,2016,Curanilahue,Inscrito,2012.0,Soltero,1995-01-09,Chilena,Alonso De Ercilla,5.2,Viii - Bio-Bio,189870140,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+2017,2019,Concepcion,Inscrito,2013.0,Soltero,1995-12-20,Chilena,L.Politecnico Mariano Latorre,5.4,Viii - Bio-Bio,189875851,Masculino,Municipal,Tecnico Profesional,24,False
+4958,2021,Concepción,Inscrito,2014.0,Soltero,1995-05-27,Chilena,Antonio Acevedo Hernandez (C E I A),4.9,Viii - Bio-Bio,190005879,Masculino,Municipal,Tecnico Profesional,26,False
+1057,2020,Hualpén,Inscrito,2012.0,Soltero,1995-02-09,Chilena,L.Tecnico,5.8,Viii - Bio-Bio,190124630,Femenino,Particular Subvencionado,Tecnico Profesional,25,False
+436,2020,Concepción,Inscrito,2016.0,Casado,1995-07-14,Chilena,Comercial Javiera Y J.Carrera Nr.1,5.4,Viii - Bio-Bio,190575071,Femenino,Particular Subvencionado,Tecnico Profesional,25,False
+1239,2021,Concepción,Inscrito,2016.0,Soltero,1995-11-09,Chilena,L.Vicente Alberto Palacios Valdes,5.1,Viii - Bio-Bio,190669378,Masculino,Municipal,Cientifico Humanista,26,False
+26,2020,Concepción,Inscrito,2013.0,Soltero,1995-07-12,Chilena,L.La Asuncion,5.4,Viii - Bio-Bio,190893243,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+5343,2022,Concepción,Inscrito,2012.0,Soltero,1995-04-10,Chilena,L.Jorge S.Chez Ugarte,5.0,Viii - Bio-Bio,190893782,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+2843,2019,Chiguayante,Inscrito,2013.0,Soltero,1995-08-05,Chilena,Col.Aurora De Chile  ,5.9,Viii - Bio-Bio,190897931,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+11790,2023,San Pedro De La Paz,Inscrito,2014.0,Soltero,1995-09-15,Chilena,Escuela Particular Instituto San Pedro,5.3,Viii - Bio-Bio,190905187,Masculino,Particular Subvencionado,Cientifico Humanista,28,False
+1397,2017,Concepcion,Inscrito,2013.0,Soltero,1995-10-19,Chilena,Col.Etchegoyen,6.0,Viii - Bio-Bio,190909557,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+560,2019,Talcahuano,Inscrito,2013.0,Soltero,1995-10-31,Chilena,Colegio Amanecer Talcahuano,6.1,Viii - Bio-Bio,190910652,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+556,2019,Hualqui,Inscrito,2012.0,Soltero,1995-06-08,Chilena,L.Indust. De La Const. Hernan Val,5.6,Viii - Bio-Bio,191083075,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+31,2020,Concepción,Inscrito,2013.0,Soltero,1995-05-09,Chilena,Col.Metodista Concepcion  ,6.7,Viii - Bio-Bio,191087445,Femenino,Particular Subvencionado,Cientifico Humanista,25,False
+4913,2014,Talcahuano,Inscrito,2013.0,Soltero,1995-09-22,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,191091450,Masculino,Municipal,Tecnico Profesional,19,False
+11737,2023,Talcahuano,Inscrito,2013.0,Soltero,1995-10-01,Chilena,L.Comercial De Talcahuano,5.3,Viii - Bio-Bio,191093593,Masculino,Municipal,Tecnico Profesional,28,False
+2777,2020,Concepción,Inscrito,2013.0,Soltero,1995-10-23,Chilena,Col.Concepcion S. Pedro,5.8,Viii - Bio-Bio,191095162,Masculino,Particular,Cientifico Humanista,25,False
+1084,2020,Hualpén,Inscrito,2015.0,Soltero,1995-12-09,Chilena,L.Vicente Alberto Palacios Valdes,5.9,Viii - Bio-Bio,191099214,Masculino,Municipal,Cientifico Humanista,25,False
+5719,2022,Hualpén,Inscrito,2013.0,Soltero,1995-08-13,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,191103599,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+2815,2016,Talcahuano,Inscrito,2013.0,Soltero,1996-01-28,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,191103939,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1039,2015,Hualpen,Inscrito,2013.0,Soltero,1996-01-15,Chilena,L.Indust. De La Const. Hernan Val,4.9,Viii - Bio-Bio,191105702,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1649,2018,Talcahuano,Inscrito,2014.0,Soltero,1996-02-21,Chilena,Talcahuano,5.1,Viii - Bio-Bio,191106091,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+32,2020,Florida,Inscrito,2016.0,Soltero,1996-05-13,Chilena,Cent. De Ed. Int. De Ad. Mon. Alfredo S.,5.2,Viii - Bio-Bio,191113233,Masculino,Particular,Cientifico Humanista,24,False
+5465,2014,Hualqui,Inscrito,2013.0,Soltero,1995-10-22,Chilena,Andres Bello,5.2,Viii - Bio-Bio,191207254,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1034,2016,Concepcion,Inscrito,2013.0,Soltero,1995-10-17,Chilena,L.Indust. Del Bio Bio,5.5,Viii - Bio-Bio,191207351,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1083,2020,Chiguayante,Inscrito,2013.0,Soltero,1995-09-27,Chilena,Radomiro Tomic Romero B 34,6.1,Viii - Bio-Bio,191216008,Masculino,Municipal,Cientifico Humanista,25,False
+1227,2021,Hualpén,Inscrito,2013.0,Soltero,1996-02-11,Chilena,Garden Play,5.5,Viii - Bio-Bio,191220455,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+1232,2020,Concepcion,Inscrito,2013.0,Soltero,1996-04-10,Chilena,Los Acacios,5.0,Viii - Bio-Bio,191225945,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+10734,2023,Concepción,Inscrito,2014.0,Soltero,1996-04-13,Chilena,Centro De Educación De Adultos Quimahue,5.8,Viii - Bio-Bio,191228855,Masculino,Particular Subvencionado,Cientifico Humanista,27,False
+1396,2018,Chiguayante,Inscrito,2013.0,Casado,1996-05-07,Chilena,L.Chiguayante,5.6,Viii - Bio-Bio,191229061,Masculino,Municipal,Tecnico Profesional,22,False
+1980,2019,San Pedro De La Paz,Inscrito,2014.0,Soltero,1996-06-25,Chilena,L.Mauricio Holchschild Del Ceat,5.6,Viii - Bio-Bio,191234359,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1709,2018,Parral,Inscrito,2014.0,Soltero,1996-04-27,Chilena,C.E.I.A.Juanita Zuñiga Fuentes,5.6,Vii - Maule,191281217,Masculino,Municipal,Tecnico Profesional,22,False
+1031,2015,Coronel,Inscrito,2013.0,Soltero,1995-07-20,Chilena,"Col.Padre Manuel D""Alzon  ",5.4,Viii - Bio-Bio,191394321,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1043,2020,Coronel,Inscrito,2015.0,Soltero,1996-06-27,Chilena,Coronel,5.0,Viii - Bio-Bio,191403487,Masculino,Municipal,Cientifico Humanista,24,False
+5376,2022,San Pedro De La Paz,Inscrito,2013.0,Soltero,1996-03-04,Chilena,L.Mauricio Holchschild Del Ceat,5.3,Viii - Bio-Bio,191411013,Masculino,Particular Subvencionado,Tecnico Profesional,26,False
+19,2020,Penco,Inscrito,2014.0,Soltero,1995-08-29,Chilena,L.Indust. De Tome,5.4,Viii - Bio-Bio,191556593,Masculino,Particular Subvencionado,Tecnico Profesional,25,False
+5663,2022,Penco,Inscrito,2014.0,Casado,1997-03-03,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.5,Viii - Bio-Bio,191561783,Masculino,Particular Subvencionado,Tecnico Profesional,25,False
+11787,2023,Penco,Inscrito,2015.0,Soltero,1997-05-19,Chilena,Liceo Pencopolitano,5.7,Viii - Bio-Bio,191562399,Masculino,Municipal,Cientifico Humanista,26,True
+50,2021,Penco,Inscrito,2016.0,Soltero,1997-06-13,Chilena,L.Pencopolitano,5.8,Viii - Bio-Bio,191563034,Masculino,Municipal,Tecnico Profesional,24,False
+27,2020,Penco,Inscrito,2017.0,Soltero,1999-04-09,Chilena,L.Enrique Molina Garmendia,5.5,Viii - Bio-Bio,191568281,Masculino,Municipal,Cientifico Humanista,21,False
+1644,2018,Penco,Inscrito,2017.0,Soltero,1999-12-08,Chilena,L.De Niñas,5.4,Viii - Bio-Bio,191570685,Femenino,Municipal,Cientifico Humanista,19,False
+2014,2019,Penco,Inscrito,2018.0,Soltero,2000-03-15,Chilena,L.Pencopolitano,5.3,Viii - Bio-Bio,191571185,Masculino,Municipal,Tecnico Profesional,19,False
+1225,2021,Penco,Inscrito,2019.0,Soltero,2000-10-30,Chilena,L.Indust. De Tome,6.0,Viii - Bio-Bio,191573021,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+5511,2020,Penco,Inscrito,2018.0,Soltero,2000-11-02,Chilena,L.Pencopolitano,5.7,Viii - Bio-Bio,191573064,Masculino,Municipal,Tecnico Profesional,20,False
+302,2021,Penco,Inscrito,2019.0,Soltero,2001-06-08,Chilena,Col.Republica Del Brasil,5.4,Viii - Bio-Bio,191574532,Masculino,Municipal,Cientifico Humanista,20,False
+618,2019,Concepcion,Inscrito,2018.0,Soltero,2001-06-16,Chilena,L.Mauricio Holchschild Del Ceat,5.4,Viii - Bio-Bio,191574621,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+11814,2023,Penco,Inscrito,2019.0,Soltero,2001-08-02,Chilena,Liceo Pencopolitano,6.1,Viii - Bio-Bio,191575024,Masculino,Municipal,Cientifico Humanista,22,False
+434,2020,Penco,Inscrito,2019.0,Soltero,2001-09-14,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.4,Viii - Bio-Bio,191575318,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+11708,2023,Penco,Inscrito,2019.0,Soltero,2002-03-21,Chilena,Liceo San Agustin De Concepcion,5.4,Viii - Bio-Bio,191576241,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5623,2022,Tomé,Inscrito,2020.0,Soltero,2002-08-17,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.6,Viii - Bio-Bio,191577094,Masculino,Particular Subvencionado,Tecnico Profesional,20,True
+1129,2021,Penco,Inscrito,2020.0,Soltero,2002-09-25,Chilena,L.Indust. De Tome,6.3,Viii - Bio-Bio,191577299,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+429,2020,Hualpén,Inscrito,2014.0,Soltero,1995-07-29,Chilena,L. Libertador Gral Bdo. O Higgins,5.4,Viii - Bio-Bio,191787803,Masculino,Municipal,Cientifico Humanista,25,True
+1219,2021,San Pedro De La Paz,Inscrito,2014.0,Soltero,1995-10-31,Chilena,Ctro. De Est. La Araucana,5.9,Viii - Bio-Bio,191888243,Masculino,Particular,Cientifico Humanista,26,False
+1558,2016,Coelemu,Inscrito,2014.0,Soltero,1996-07-30,Chilena,Domingo Ortiz De Rozas,5.2,Viii - Bio-Bio,192515831,Masculino,Municipal,Tecnico Profesional,20,False
+380,2018,Arauco,Inscrito,2015.0,Soltero,1997-08-01,Chilena,Centro Integral De Adultos Paul Harris,5.3,Viii - Bio-Bio,192712041,Masculino,Municipal,Tecnico Profesional,21,False
+1402,2020,Los Angeles,Inscrito,2014.0,Soltero,1995-11-03,Chilena,Escuela De Adultos Intecap,5.3,Viii - Bio-Bio,192924227,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+6,2014,Chiguayante,Inscrito,2013.0,Soltero,1996-03-30,Chilena,The Pacific School  0,5.2,Viii - Bio-Bio,192928885,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+357,2020,Santa Barbara,Inscrito,2013.0,Soltero,1996-01-10,Chilena,L.Enrique Molina Garmendia,5.9,Viii - Bio-Bio,193126111,Masculino,Municipal,Cientifico Humanista,24,False
+2329,2020,Yumbel,Inscrito,2014.0,Soltero,1996-12-09,Chilena,Inst. S. Sebastian Medio,6.0,Viii - Bio-Bio,193254128,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+6000,2022,Concepcion,Inscrito,2015.0,Soltero,1995-12-25,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.7,Viii - Bio-Bio,193313450,Masculino,Particular Subvencionado,Cientifico Humanista,27,False
+1652,2018,Coronel,Inscrito,2013.0,Soltero,1995-11-21,Chilena,Col.American Junior College  ,5.2,Viii - Bio-Bio,193324363,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+553,2019,Chiguayante,Inscrito,2013.0,Soltero,1996-03-30,Chilena,Colegio Concepcion Chiguayante,5.1,Viii - Bio-Bio,193326080,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1139,2021,Concepción,Inscrito,2013.0,Soltero,1996-05-01,Chilena,L.S. Agustin,5.5,Viii - Bio-Bio,193330908,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+10721,2023,Concepción,Inscrito,2014.0,Soltero,1996-05-08,Chilena,The Wessex School,6.4,Viii - Bio-Bio,193333397,Femenino,Particular,Cientifico Humanista,27,False
+2839,2018,Concepción,Inscrito,2015.0,Soltero,1996-02-07,Chilena,L.De Adultos Jacques Cousteau,5.4,Viii - Bio-Bio,193337856,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+11815,2023,San Pedro De La Paz,Inscrito,2014.0,Soltero,1996-07-10,Chilena,Liceo Tecnico Profesional De La Madera,5.2,Viii - Bio-Bio,193349471,Masculino,Particular Subvencionado,Tecnico Profesional,27,False
+2280,2017,Coelemu,Inscrito,2014.0,Soltero,1996-08-29,Chilena,L.Salesiano Domingo Savio,5.6,Viii - Bio-Bio,193354882,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1223,2021,Talcahuano,Inscrito,2014.0,Soltero,1996-09-24,Chilena,L.La Asuncion,5.9,Viii - Bio-Bio,193356745,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+131,2020,Concepción,Inscrito,2015.0,Soltero,1996-06-15,Chilena,Cent.De Educ.Intergrada De Adultos Icade,5.1,Viii - Bio-Bio,193359256,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+656,2020,Cabrero,Inscrito,2013.0,Soltero,1996-10-28,Chilena,Manuel Aristides Zañartu Zañartu,5.9,Viii - Bio-Bio,193361854,Masculino,Municipal,Cientifico Humanista,24,False
+1032,2015,Tome,Inscrito,2013.0,Soltero,1996-05-21,Chilena,L.Vicente Alberto Palacios Valdes,5.5,Viii - Bio-Bio,193650376,Masculino,Municipal,Cientifico Humanista,19,False
+273,2021,Tomé,Inscrito,2014.0,Soltero,1997-01-29,Chilena,L.Vicente Alberto Palacios Valdes,5.6,Viii - Bio-Bio,193654908,Masculino,Municipal,Cientifico Humanista,24,False
+14,2021,Talcahuano,Inscrito,2016.0,Soltero,1996-06-07,Chilena,L.La Asuncion,5.1,Viii - Bio-Bio,193733662,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+3,2016,Curanilahue,Inscrito,2014.0,Soltero,1996-03-19,Chilena,L.Politecnico Curanilahue,5.5,Viii - Bio-Bio,193868649,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+18,2020,Concepción,Inscrito,2013.0,Soltero,1996-04-16,Chilena,Colegio Amanecer San Carlos,5.6,Viii - Bio-Bio,193868975,Femenino,Particular Subvencionado,Tecnico Profesional,24,False
+1059,2020,Concepción,Inscrito,2014.0,Soltero,1996-11-13,Chilena,Colegio Pucon Nevados,6.2,Viii - Bio-Bio,194138083,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1588,2020,Cisnes,Inscrito,2014.0,Soltero,1996-08-22,Chilena,L.Arturo Prat Chacon,5.2,Xi - Aysen,194610920,Masculino,Municipal,Tecnico Profesional,24,False
+1967,2019,Talcahuano,Inscrito,2014.0,Soltero,1997-01-03,Chilena,L.Pablo Neruda,5.6,Viii - Bio-Bio,194986130,Femenino,Municipal,Cientifico Humanista,22,False
+1074,2020,Concepción,Inscrito,2017.0,Casado,1997-02-16,Chilena,L.Nueva Zelandia,5.7,Viii - Bio-Bio,195098352,Masculino,Municipal,Tecnico Profesional,23,False
+5357,2022,San Pedro De La Paz,Inscrito,2015.0,Soltero,1997-02-24,Chilena,L.Tecnico Profesional De La Madera  ,5.1,Viii - Bio-Bio,195099359,Masculino,Particular Subvencionado,Tecnico Profesional,25,False
+1845,2016,Concepcion,Inscrito,2015.0,Soltero,1997-03-20,Chilena,Gran Bretana,5.3,Viii - Bio-Bio,195102732,Masculino,Municipal,Cientifico Humanista,19,False
+52,2021,Chiguayante,Inscrito,2016.0,Soltero,1997-04-10,Chilena,C. De Niv. Y Cap. De Ad. Madre Maria N Y,4.9,Viii - Bio-Bio,195102805,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+8814,2020,Penco,Inscrito,2016.0,Soltero,1997-05-22,Chilena,L.Comercial Femenino,5.6,Viii - Bio-Bio,195108145,Femenino,Particular Subvencionado,Tecnico Profesional,23,False
+2,2021,Lebu,Inscrito,2015.0,Soltero,1997-07-20,Chilena,L.Isidora Ramos De Gajardo,5.9,Viii - Bio-Bio,195112142,Masculino,Municipal,Cientifico Humanista,24,False
+1193,2021,Penco,Inscrito,2019.0,Soltero,1997-07-24,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.8,Viii - Bio-Bio,195112975,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+2013,2019,Chiguayante,Inscrito,2015.0,Soltero,1997-08-31,Chilena,L.Indust. Del Bio Bio,5.3,Viii - Bio-Bio,195116261,Femenino,Particular Subvencionado,Tecnico Profesional,22,False
+1639,2018,San Pedro De La Paz,Inscrito,2015.0,Soltero,1997-10-02,Chilena,L.Mauricio Holchschild Del Ceat,6.2,Viii - Bio-Bio,195119430,Femenino,Particular Subvencionado,Tecnico Profesional,21,False
+558,2019,Concepcion,Inscrito,2015.0,Soltero,1997-10-27,Chilena,E. Salesaina S. Jose,5.4,Viii - Bio-Bio,195121729,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+1653,2018,Lota,Inscrito,2015.0,Soltero,1997-08-08,Chilena,Carlos Cousiño Goyenechea,5.3,Viii - Bio-Bio,195216088,Masculino,Municipal,Tecnico Profesional,21,False
+443,2020,Hualpén,Inscrito,2015.0,Soltero,1996-10-24,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.7,Viii - Bio-Bio,195307679,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1100,2020,Talcahuano,Inscrito,2014.0,Soltero,1997-03-08,Chilena,Almirante Pedro Espina Ritche,5.2,Viii - Bio-Bio,195310645,Femenino,Municipal,Cientifico Humanista,23,False
+1715,2019,Hualpen,Inscrito,2014.0,Soltero,1996-11-06,Chilena,Colegio Adventista De Concepcion,5.3,Viii - Bio-Bio,195321426,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+678,2017,Hualpen,Inscrito,2016.0,Soltero,1997-01-12,Chilena,Ctro. De Educ.  Evangelico De Hualpe,5.2,Viii - Bio-Bio,195327033,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+2104,2018,Hualpen,Inscrito,2015.0,Soltero,1996-12-13,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.5,Viii - Bio-Bio,195327130,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+2025,2019,Talcahuano,Inscrito,2017.0,Soltero,1997-01-17,Chilena,E.De Adultos Las Americas,6.6,Viii - Bio-Bio,195327297,Masculino,Municipal,Tecnico Profesional,22,False
+1650,2018,Talcahuano,Inscrito,2014.0,Soltero,1997-03-01,Chilena,L.Comercial De Talcahuano,5.0,Viii - Bio-Bio,195331057,Masculino,Municipal,Tecnico Profesional,21,False
+59,2021,Concepción,Inscrito,2014.0,Soltero,1997-03-11,Chilena,S. Pedro Nolasco,4.8,Viii - Bio-Bio,195332304,Masculino,Particular,Cientifico Humanista,24,False
+1113,2018,Talcahuano,Inscrito,2016.0,Soltero,1997-03-14,Chilena,L.La Asuncion,5.3,Viii - Bio-Bio,195334862,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1161,2021,Talcahuano,Inscrito,2016.0,Soltero,1997-04-30,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.0,Viii - Bio-Bio,195336482,Masculino,Particular Subvencionado,Cientifico Humanista,24,True
+1977,2019,Cabrero,Inscrito,2014.0,Soltero,1997-05-02,Chilena,Manuel Aristides Zañartu Zañartu,5.7,Viii - Bio-Bio,195336695,Masculino,Municipal,Cientifico Humanista,22,False
+664,2019,Penco,Inscrito,2018.0,Soltero,1997-06-21,Chilena,L.Pencopolitano,5.0,Viii - Bio-Bio,195341192,Masculino,Municipal,Tecnico Profesional,22,False
+5677,2022,Talcahuano,Inscrito,2019.0,Soltero,1997-07-05,Chilena,Cent. De Ed. Int. De Ad. Mon. Alfredo S.,4.9,Viii - Bio-Bio,195341796,Masculino,Particular,Cientifico Humanista,25,False
+386,2017,Dalcahue,Inscrito,2015.0,Soltero,1997-03-17,Chilena,L.Politecnico De Castro,5.7,X - De Los Lagos,195680728,Masculino,Municipal,Tecnico Profesional,20,False
+5,2018,Coronel,Inscrito,2014.0,Soltero,1996-11-13,Chilena,Coronel,5.6,Viii - Bio-Bio,195776466,Masculino,Municipal,Cientifico Humanista,22,False
+6251,2016,Santa Juana,Inscrito,2015.0,Soltero,1996-11-08,Chilena,L.Nueva Zelandia,5.1,Viii - Bio-Bio,195946116,Masculino,Municipal,Tecnico Profesional,20,False
+1400,2018,San Pedro De La Paz,Inscrito,2014.0,Soltero,1996-11-27,Chilena,Renacer Col.Adulto,6.1,Viii - Bio-Bio,195948542,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+5682,2022,Chiguayante,Inscrito,2014.0,Soltero,1996-11-12,Chilena,Andres Bello,5.3,Viii - Bio-Bio,195949891,Femenino,Particular Subvencionado,Cientifico Humanista,26,False
+1643,2018,Hualpen,Inscrito,2014.0,Soltero,1996-12-19,Chilena,Col.Republica Del Brasil,5.3,Viii - Bio-Bio,195952531,Masculino,Municipal,Cientifico Humanista,22,False
+1070,2020,Hualqui,Inscrito,2015.0,Soltero,1996-12-17,Chilena,Juan Gregorio Las Heras De La Gacha,5.4,Viii - Bio-Bio,195953171,Masculino,Municipal,Cientifico Humanista,24,False
+1555,2018,Hualpen,Inscrito,2016.0,Soltero,1996-12-28,Chilena,Ctro. Ed  Adultos Einstein,5.1,Viii - Bio-Bio,195954542,Masculino,Particular,Cientifico Humanista,22,False
+1186,2021,Chiguayante,Inscrito,2015.0,Soltero,1996-12-28,Chilena,Colegio Concepcion Chiguayante,6.2,Viii - Bio-Bio,195955298,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+1646,2020,Concepcion,Inscrito,2014.0,Soltero,1997-02-03,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.8,Viii - Bio-Bio,195961174,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+5666,2022,Chiguayante,Inscrito,2015.0,Soltero,1997-06-12,Chilena,Col.Part. Antupiren  ,5.1,Viii - Bio-Bio,195983771,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+1038,2017,Concepcion,Inscrito,2016.0,Soltero,1997-06-19,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.7,Viii - Bio-Bio,195986185,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+1713,2021,Penco,Inscrito,2017.0,Soltero,1997-07-05,Chilena,L.Experimental Lucila Godoy Alcayaga,4.8,Viii - Bio-Bio,195986428,Masculino,Municipal,Cientifico Humanista,24,False
+5664,2022,San Pedro De La Paz,Inscrito,2015.0,Soltero,1997-07-22,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,4.7,Viii - Bio-Bio,195989397,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+313,2019,Cabrero,Inscrito,2014.0,Soltero,1996-12-31,Chilena,Manuel Aristides Zañartu Zañartu,5.5,Viii - Bio-Bio,195996792,Masculino,Municipal,Cientifico Humanista,23,False
+428,2020,Tomé,Inscrito,2016.0,Soltero,1998-02-24,Chilena,L.Comercial De Tome,5.0,Viii - Bio-Bio,196774629,Masculino,Municipal,Tecnico Profesional,22,False
+1114,2019,Chillan,Inscrito,2019.0,Soltero,1997-04-11,Chilena,Inst. Sta. Maria,5.3,Xvi - De Ñuble,196858075,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1040,2017,Talcahuano,Inscrito,2015.0,Soltero,1997-04-21,Chilena,Colegio Amanecer Talcahuano,5.3,Viii - Bio-Bio,196986480,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1626,2018,Concepcion,Inscrito,2015.0,Soltero,1998-02-28,Chilena,L.S. Agustin,5.3,Viii - Bio-Bio,196990550,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1205,2021,Puerto Varas,Inscrito,2015.0,Soltero,1997-12-22,Chilena,L.Pedro Aguirre Cerda,5.4,X - De Los Lagos,197902663,Masculino,Municipal,Tecnico Profesional,24,False
+10737,2023,Coronel,Inscrito,2016.0,Soltero,1998-08-30,Chilena,Liceo Industrial Metodista De Coronel,5.6,Viii - Bio-Bio,198000892,Masculino,Particular Subvencionado,Tecnico Profesional,25,False
+1108,2018,Coronel,Inscrito,2016.0,Soltero,1998-09-14,Chilena,Corporacion La Araucana,4.8,Viii - Bio-Bio,198001902,Masculino,Particular,Cientifico Humanista,20,False
+267,2021,Concepcion,Inscrito,2016.0,Soltero,1997-09-24,Chilena,Cent. De Ed. Int. De Ad. Mon. Alfredo S.,5.6,Viii - Bio-Bio,198008400,Masculino,Particular,Cientifico Humanista,24,False
+1125,2020,Concepción,Renunciado,2017.0,Soltero,1998-05-17,Chilena,E. Salesaina S. Jose,4.9,Viii - Bio-Bio,198116750,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+1622,2017,Hualpen,Inscrito,2016.0,Soltero,1998-10-03,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,198118753,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+45,2021,Hualpen,Inscrito,2017.0,Soltero,1998-07-25,Chilena,L.Indust. De La Const. Hernan Val,4.9,Viii - Bio-Bio,198119008,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+565,2019,Tome,Inscrito,2015.0,Soltero,1997-08-21,Chilena,L.Vicente Alberto Palacios Valdes,5.0,Viii - Bio-Bio,198119342,Masculino,Municipal,Cientifico Humanista,22,False
+1412,2019,Concepcion,Inscrito,2016.0,Soltero,1997-09-28,Chilena,Inst. S. Pedro,5.4,Viii - Bio-Bio,198124222,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1132,2021,Chiguayante,Inscrito,2016.0,Soltero,1997-10-09,Chilena,Colegio El Porvenir School,6.0,Viii - Bio-Bio,198128082,Masculino,Particular Subvencionado,Educacion Basica,24,False
+392,2018,San Pedro De La Paz,Inscrito,2015.0,Soltero,1997-10-21,Chilena,L.Mauricio Holchschild Del Ceat,5.8,Viii - Bio-Bio,198130168,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+627,2019,Chiguayante,Inscrito,2015.0,Soltero,1997-11-27,Chilena,Colegio Madre Paulina,5.4,Viii - Bio-Bio,198135585,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+10718,2023,Hualpén,Inscrito,2015.0,Soltero,1997-12-08,Chilena,L.Comercial Enrique Oyarzun Mondaca,6.1,Viii - Bio-Bio,198136697,Masculino,Particular Subvencionado,Cientifico Humanista,26,False
+2817,2018,Talcahuano,Inscrito,2016.0,Soltero,1998-01-07,Chilena,Colegio Rucalhue,5.6,Viii - Bio-Bio,198140953,Masculino,Particular Subvencionado,Educacion Basica,20,False
+5730,2022,Concepción,Inscrito,2015.0,Soltero,1998-01-08,Chilena,Juan Gregorio Las Heras De La Gacha,5.2,Viii - Bio-Bio,198143847,Masculino,Municipal,Cientifico Humanista,24,False
+5354,2022,Talcahuano,Inscrito,2015.0,Soltero,1997-08-26,Chilena,Marcela Paz,6.2,Viii - Bio-Bio,198145629,Masculino,Municipal,Educacion Básica,25,False
+2819,2017,Talcahuano,Inscrito,2016.0,Soltero,1998-03-04,Chilena,Ctro. De Ed  Integral Diego Portales,5.4,Viii - Bio-Bio,198150983,Masculino,Particular,Cientifico Humanista,19,False
+33,2021,San Pedro De La Paz,Inscrito,2016.0,Soltero,1998-03-12,Chilena,L.Las Salinas,5.1,Viii - Bio-Bio,198152544,Masculino,Municipal,Cientifico Humanista,23,False
+1844,2016,Coronel,Inscrito,2015.0,Soltero,1998-04-25,Chilena,L.Indust. Metodista De Coronel,5.0,Viii - Bio-Bio,198159069,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+2798,2019,Hualpen,Inscrito,2017.0,Soltero,1998-06-30,Chilena,L.Las Salinas,5.5,Viii - Bio-Bio,198166774,Masculino,Municipal,Cientifico Humanista,21,False
+1645,2018,Quirihue,Inscrito,2016.0,Soltero,1998-12-12,Chilena,Politecnico Carlos Montane Castro,5.2,Viii - Bio-Bio,198216046,Femenino,Municipal,Tecnico Profesional,20,False
+11808,2023,Hualpén,Inscrito,2016.0,Soltero,1997-10-02,Chilena,Liceo Simón Bolívar,5.4,Viii - Bio-Bio,198227331,Masculino,Municipal,Cientifico Humanista,26,False
+617,2019,Coronel,Inscrito,2015.0,Soltero,1998-05-06,Chilena,L.Indust. Metodista De Coronel,4.9,Viii - Bio-Bio,198255890,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1033,2016,Coronel,Inscrito,2015.0,Soltero,1997-09-30,Chilena,L.Tecnico Profesional De La Madera  0,5.4,Viii - Bio-Bio,198264571,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1103,2019,Lota,Inscrito,2015.0,Soltero,1997-12-12,Chilena,Carlos Cousiño Goyenechea,5.3,Viii - Bio-Bio,198266574,Femenino,Municipal,Tecnico Profesional,22,False
+1711,2020,Coronel,Inscrito,2017.0,Soltero,1998-09-25,Chilena,Almirante Pedro Espina Ritche,5.4,Viii - Bio-Bio,198273228,Masculino,Municipal,Cientifico Humanista,22,False
+1416,2019,Talcahuano,Inscrito,2016.0,Soltero,1997-10-11,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.8,Viii - Bio-Bio,198339776,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+48,2021,Coronel,Inscrito,2015.0,Soltero,1997-10-10,Chilena,Renacer Col.Adulto,5.1,Viii - Bio-Bio,198340669,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+559,2019,Hualpen,Inscrito,2016.0,Soltero,1997-09-24,Chilena,L.Pedro Del Rio Zanartu,5.3,Viii - Bio-Bio,198341363,Masculino,Municipal,Tecnico Profesional,22,False
+944,2018,Talcahuano,Inscrito,2015.0,Soltero,1997-11-11,Chilena,L.Comercial De Talcahuano,4.8,Viii - Bio-Bio,198342440,Masculino,Municipal,Tecnico Profesional,21,False
+1171,2021,Concepción,Inscrito,2020.0,Soltero,1997-10-20,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.1,Viii - Bio-Bio,198342963,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1401,2020,Concepcion,Inscrito,2015.0,Soltero,1997-11-17,Chilena,Patricio Mekis,4.9,Viii - Bio-Bio,198343773,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+60,2021,Talcahuano,Inscrito,2015.0,Soltero,1997-11-20,Chilena,L.Comercial De Talcahuano,5.4,Viii - Bio-Bio,198344141,Masculino,Municipal,Tecnico Profesional,24,False
+4513,2018,Talcahuano,Inscrito,2015.0,Soltero,1997-12-03,Chilena,Almirante Pedro Espina Ritche,5.0,Viii - Bio-Bio,198344753,Masculino,Municipal,Cientifico Humanista,21,False
+1067,2020,Chiguayante,Inscrito,2016.0,Soltero,1998-03-27,Chilena,The Pacific School  0,5.6,Viii - Bio-Bio,198351512,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+8,2019,Talcahuano,Inscrito,2016.0,Soltero,1998-04-19,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,5.4,Viii - Bio-Bio,198353590,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+2004,2019,Hualpen,Inscrito,2017.0,Soltero,1998-07-14,Chilena,Simon Bolivar,6.2,Viii - Bio-Bio,198360090,Femenino,Municipal,Cientifico Humanista,21,False
+5721,2022,Concepción,Inscrito,2017.0,Soltero,1998-07-16,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.1,Viii - Bio-Bio,198360295,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+594,2018,Tome,Inscrito,2016.0,Soltero,1998-07-23,Chilena,L.Comercial De Tome,5.9,Viii - Bio-Bio,198362131,Masculino,Municipal,Tecnico Profesional,20,False
+1177,2021,Talcahuano,Inscrito,2017.0,Soltero,1998-08-09,Chilena,Ctro. De Educ.  Integral De Adultos,5.6,Viii - Bio-Bio,198362387,Masculino,Municipal,Cientifico Humanista,23,False
+1194,2021,Hualpén,Inscrito,2017.0,Soltero,1998-07-16,Chilena,Ceia Monsenor Alfredo Silva S.Tiago,5.8,Viii - Bio-Bio,198362859,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1063,2020,Hualpén,Inscrito,2017.0,Soltero,1998-11-06,Chilena,L.Pedro Del Rio Zanartu,5.1,Viii - Bio-Bio,198368725,Masculino,Municipal,Tecnico Profesional,22,False
+1080,2020,Talcahuano,Inscrito,2019.0,Soltero,1998-11-15,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,6.3,Viii - Bio-Bio,198371475,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+5371,2022,Concepcion,Inscrito,2016.0,Soltero,1998-11-28,Chilena,L.Jose Manuel Balmaceda,5.5,Viii - Bio-Bio,198373710,Masculino,Municipal,Cientifico Humanista,24,False
+1203,2021,Penalolen,Inscrito,2017.0,Soltero,1998-04-20,Chilena,Colegio Proacap,4.5,Rm - Metropolitana,198519081,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+2797,2019,Chiguayante,Inscrito,2016.0,Soltero,1998-02-02,Chilena,The Pacific School  0,5.3,Viii - Bio-Bio,198580589,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1144,2021,Lebu,Inscrito,2015.0,Soltero,1998-03-19,Chilena,L.Isidora Ramos De Gajardo,6.0,Viii - Bio-Bio,198679232,Masculino,Municipal,Cientifico Humanista,23,False
+1638,2020,Parral,Inscrito,2015.0,Soltero,1997-11-13,Chilena,L.S. Jose,4.9,Vii - Maule,198943185,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1036,2016,Concepcion,Inscrito,2015.0,Soltero,1998-03-16,Chilena,L.S. Jose,4.9,Viii - Bio-Bio,198944645,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+2296,2018,Parral,Inscrito,2015.0,Soltero,1998-04-20,Chilena,Inst. Parral,5.4,Vii - Maule,198945439,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1041,2017,Linares,Inscrito,2016.0,Soltero,1998-06-30,Chilena,Inst. Comercial,6.0,Vii - Maule,198959006,Masculino,Municipal,Tecnico Profesional,19,False
+1386,2020,Concepción,Inscrito,2016.0,Soltero,1998-02-10,Chilena,Heroes De La Concepcion,5.7,Viii - Bio-Bio,198998869,Masculino,Municipal,Tecnico Profesional,22,False
+1079,2020,Chiguayante,Inscrito,2015.0,Soltero,1998-02-14,Chilena,L.Chiguayante,5.1,Viii - Bio-Bio,199065157,Masculino,Municipal,Tecnico Profesional,22,False
+11741,2023,San Pedro De La Paz,Inscrito,2016.0,Soltero,1998-03-13,Chilena,Colegio Galvarino De Lomas Coloradas,5.5,Viii - Bio-Bio,199068059,Masculino,Municipal,Cientifico Humanista,25,False
+548,2019,Concepcion,Inscrito,2016.0,Soltero,1998-04-18,Chilena,L.Mauricio Holchschild Del Ceat,5.0,Viii - Bio-Bio,199073699,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+5650,2022,Coronel,Inscrito,2015.0,Soltero,1998-05-07,Chilena,L.Indust. Metodista De Coronel,5.5,Viii - Bio-Bio,199074504,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+1633,2017,Hualpen,Inscrito,2015.0,Soltero,1998-05-21,Chilena,L.Indust. De La Const. Hernan Val,6.1,Viii - Bio-Bio,199075055,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+38,2021,San Pedro De La Paz,Inscrito,2016.0,Soltero,1998-05-24,Chilena,L.Comercial Enrique Oyarzun Mondaca,4.9,Viii - Bio-Bio,199076418,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+2019,2019,Chiguayante,Inscrito,2017.0,Soltero,1998-07-08,Chilena,Ctro. De Educ.  Integral De Adultos,5.9,Viii - Bio-Bio,199080121,Masculino,Municipal,Cientifico Humanista,21,False
+387,2018,Concepcion,Inscrito,2017.0,Soltero,1998-08-03,Chilena,L.Mauricio Holchschild Del Ceat,5.5,Viii - Bio-Bio,199083821,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+2007,2021,Santa Juana,Inscrito,2016.0,Soltero,1998-09-28,Chilena,Colegio Jahve Nisi,5.1,Viii - Bio-Bio,199087754,Masculino,Particular Subvencionado,Educacion Basica,23,False
+691,2017,San Pedro De La Paz,Inscrito,2016.0,Soltero,1998-11-07,Chilena,Lomas Coloradas,5.6,Viii - Bio-Bio,199091468,Femenino,Municipal,Cientifico Humanista,19,False
+295,2021,Lota,Inscrito,2016.0,Soltero,1998-11-28,Chilena,Carlos Cousiño Goyenechea,5.4,Viii - Bio-Bio,199093258,Masculino,Municipal,Tecnico Profesional,23,False
+609,2019,Chiguayante,Inscrito,2017.0,Soltero,1998-12-29,Chilena,Jose Hipolito Salas Y Toro,5.3,Viii - Bio-Bio,199096109,Masculino,Municipal,Cientifico Humanista,21,False
+1188,2021,Concepción,Inscrito,2016.0,Soltero,1999-01-24,Chilena,L.Jorge S.Chez Ugarte,5.7,Viii - Bio-Bio,199098373,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+1410,2019,Concepcion,Inscrito,2016.0,Soltero,1998-09-14,Chilena,Leopoldo Lucero Gonzalez,5.9,Viii - Bio-Bio,199099361,Masculino,Municipal,Educacion Básica,21,False
+11748,2023,Hualpén,Inscrito,2016.0,Soltero,1999-01-22,Chilena,Liceo De Niñas,5.7,Viii - Bio-Bio,199099612,Femenino,Particular Subvencionado,Cientifico Humanista,24,False
+1408,2019,Tome,Inscrito,2016.0,Soltero,1998-08-04,Chilena,L.Vicente Alberto Palacios Valdes,5.9,Viii - Bio-Bio,199279211,Masculino,Municipal,Cientifico Humanista,21,False
+2390,2018,Curanilahue,Inscrito,2017.0,Soltero,1998-11-17,Chilena,Continental,5.5,Viii - Bio-Bio,199316176,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5355,2022,Yumbel,Inscrito,2015.0,Soltero,1998-05-05,Chilena,L.Mun. De Yumbel,5.6,Viii - Bio-Bio,199432478,Masculino,Municipal,Cientifico Humanista,24,False
+30,2020,Treguaco,Inscrito,2016.0,Soltero,1998-06-27,Chilena,Liceo Polivalente República Del Paraguay,6.5,Xvi - De Ñuble,199527924,Masculino,Municipal,Cientifico Humanista,22,False
+5954,2020,Coelemu,Inscrito,2018.0,Soltero,1998-07-05,Chilena,S. Francisco Del Alba,5.3,Xvi - De Ñuble,199528289,Masculino,Municipal,Cientifico Humanista,22,False
+1054,2020,Coelemu,Inscrito,2016.0,Soltero,1998-12-27,Chilena,Colegio Santa Teresita,6.6,Xvi - De Ñuble,199529366,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+47,2021,Coelemu,Inscrito,2016.0,Soltero,1999-04-27,Chilena,Colegio Santa Teresita,5.9,Xvi - De Ñuble,199530232,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1086,2020,Coelemu,Inscrito,2017.0,Soltero,1999-07-24,Chilena,Domingo Ortiz De Rozas,5.8,Xvi - De Ñuble,199530690,Masculino,Municipal,Tecnico Profesional,21,False
+5645,2022,San Pedro De La Paz,Inscrito,2016.0,Soltero,1999-02-27,Chilena,E. Indust. S. Antonio,5.4,Viii - Bio-Bio,199747630,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1047,2021,Ñiquen,Inscrito,2018.0,Soltero,1999-08-11,Chilena,L.S. Gregorio,5.8,Xvi - De Ñuble,199911015,Masculino,Municipal,Cientifico Humanista,22,False
+1632,2020,Talcahuano,Inscrito,2017.0,Soltero,1999-05-09,Chilena,L.Experimental Lucila Godoy Alcayaga,5.3,Viii - Bio-Bio,200055373,Femenino,Municipal,Cientifico Humanista,21,False
+5714,2022,Ñuñoa,Inscrito,2016.0,Soltero,1999-01-15,Chilena,Col.Part. Montessori,6.5,Rm - Metropolitana,200085817,Masculino,Particular,Cientifico Humanista,23,False
+0,2020,Talcahuano,Inscrito,2016.0,Soltero,1998-09-27,Chilena,L.Mauricio Holchschild Del Ceat,5.4,Viii - Bio-Bio,200146638,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+11736,2023,Hualpén,Inscrito,2017.0,Soltero,1999-05-27,Chilena,L.Pedro Del Rio Zanartu,5.5,Viii - Bio-Bio,200150449,Femenino,Municipal,Cientifico Humanista,24,True
+5676,2022,Penco,Inscrito,2017.0,Soltero,1999-07-01,Chilena,Rios De Chile,6.2,Viii - Bio-Bio,200155270,Femenino,Municipal,Tecnico Profesional,23,False
+2071,2019,San Pedro De La Paz,Inscrito,2017.0,Soltero,1998-07-03,Chilena,L.Los Andes,5.0,Viii - Bio-Bio,200186036,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+530,2020,San Pedro De La Paz,Inscrito,2018.0,Soltero,1998-07-05,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.0,Viii - Bio-Bio,200186575,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1238,2021,Hualpén,Inscrito,2016.0,Soltero,1998-09-22,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.1,Viii - Bio-Bio,200193881,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1037,2017,Concepcion,Inscrito,2016.0,Soltero,1998-10-09,Chilena,E. Salesaina S. Jose,5.6,Viii - Bio-Bio,200198859,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+4349,2019,Chiguayante,Inscrito,2017.0,Soltero,1998-11-03,Chilena,L.Chiguayante,5.8,Viii - Bio-Bio,200202899,Masculino,Municipal,Tecnico Profesional,21,False
+280,2021,Talcahuano,Inscrito,2018.0,Soltero,1998-10-28,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.0,Viii - Bio-Bio,200203844,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+563,2020,Concepcion,Inscrito,2015.0,Soltero,1999-01-15,Chilena,Lorenzo Arenas Olivo,5.5,Viii - Bio-Bio,200217454,Masculino,Municipal,Tecnico Profesional,21,False
+382,2017,Arauco,Inscrito,2016.0,Soltero,1999-01-07,Chilena,L.S. Felipe De Arauco,5.2,Viii - Bio-Bio,200218140,Masculino,Municipal,Tecnico Profesional,18,False
+11820,2023,Talcahuano,Inscrito,2018.0,Soltero,1999-02-06,Chilena,Escuela Adultos Las Americas,5.6,Viii - Bio-Bio,200222431,Masculino,Municipal,Cientifico Humanista,24,False
+1093,2020,Concepcion,Inscrito,2018.0,Soltero,1999-04-19,Chilena,E. Salesaina S. Jose,4.9,Viii - Bio-Bio,200229657,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+2830,2021,Chiguayante,Inscrito,2016.0,Soltero,1999-04-15,Chilena,L.Nueva Zelandia,5.0,Viii - Bio-Bio,200231384,Masculino,Municipal,Tecnico Profesional,22,False
+862,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,1998-10-16,Chilena,L.Mauricio Holchschild Del Ceat,5.0,Viii - Bio-Bio,200326156,Femenino,Particular Subvencionado,Tecnico Profesional,21,False
+2805,2018,Hualpen,Inscrito,2016.0,Soltero,1998-11-04,Chilena,L. Ind. Eulogio Gordo Moneo,5.3,Viii - Bio-Bio,200326768,Masculino,Municipal,Tecnico Profesional,20,False
+1417,2018,Hualpen,Inscrito,2017.0,Soltero,1999-05-29,Chilena,Ctro. De Educ.  Adultos Pitagoras,6.1,Viii - Bio-Bio,200330730,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1698,2018,Talcahuano,Inscrito,2017.0,Soltero,1999-06-24,Chilena,Col.Etchegoyen,5.4,Viii - Bio-Bio,200331141,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11762,2023,Concepción,Inscrito,2016.0,Soltero,1999-01-08,Chilena,Col. Tecnico Profesional Los Acacios,5.5,Viii - Bio-Bio,200538072,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+5729,2022,Parral,Inscrito,2016.0,Soltero,1998-10-14,Chilena,Col.Concepcion Talca,6.7,Vii - Maule,200690362,Masculino,Particular,Cientifico Humanista,24,False
+1099,2020,Chillán Viejo,Inscrito,2016.0,Soltero,1999-04-26,Chilena,Teresiano Los Angeles,6.3,Xvi - De Ñuble,200778960,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+11761,2023,Quirihue,Inscrito,2017.0,Soltero,1999-08-06,Chilena,Politecnico Carlos Montane Castro,6.4,Xvi - De Ñuble,200785770,Femenino,Municipal,Cientifico Humanista,24,False
+11718,2023,Concepción,Inscrito,2017.0,Soltero,1998-11-09,Chilena,Liceo De Yungay,6.4,Viii - Bio-Bio,200876733,Masculino,Municipal,Cientifico Humanista,25,False
+5358,2022,Yumbel,Inscrito,2017.0,Soltero,1999-04-21,Chilena,E. Mun. De Yumbel Estacion,5.2,Viii - Bio-Bio,200878345,Masculino,Municipal,Tecnico Profesional,23,False
+1629,2020,Yumbel,Inscrito,2017.0,Soltero,1999-07-14,Chilena,Inst. S. Sebastian Medio,5.5,Viii - Bio-Bio,200879244,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1082,2020,Cabrero,Inscrito,2017.0,Soltero,1999-09-24,Chilena,Manuel Aristides Zañartu Zañartu,5.8,Viii - Bio-Bio,200880048,Masculino,Municipal,Cientifico Humanista,21,False
+686,2018,Curanilahue,Inscrito,2017.0,Soltero,1996-10-19,Chilena,C. Ed. De Adultos Fermin Fierro Luengo,6.4,Viii - Bio-Bio,200881222,Masculino,Municipal,Tecnico Profesional,22,False
+1616,2018,Cauquenes,Inscrito,2016.0,Soltero,1999-04-20,Chilena,L.Claudina Urrutia De Lavin,6.1,Vii - Maule,200905857,Masculino,Municipal,Cientifico Humanista,19,False
+5628,2022,Tomé,Inscrito,2016.0,Soltero,1998-11-07,Chilena,L.Vicente Alberto Palacios Valdes,6.4,Viii - Bio-Bio,201011604,Masculino,Municipal,Cientifico Humanista,24,False
+698,2018,Tome,Inscrito,2016.0,Soltero,1998-11-26,Chilena,L.Vicente Alberto Palacios Valdes,5.6,Viii - Bio-Bio,201011914,Masculino,Municipal,Cientifico Humanista,20,False
+1998,2018,Tome,Inscrito,2016.0,Soltero,1999-06-27,Chilena,E. Bdo. O Higgins,5.8,Viii - Bio-Bio,201015588,Masculino,Municipal,Educacion Básica,19,False
+1104,2019,Tome,Inscrito,2017.0,Soltero,1999-07-25,Chilena,L.Vicente Alberto Palacios Valdes,5.6,Viii - Bio-Bio,201016061,Masculino,Municipal,Cientifico Humanista,20,False
+1216,2021,Tomé,Inscrito,2017.0,Soltero,1999-09-15,Chilena,L.Vicente Alberto Palacios Valdes,5.4,Viii - Bio-Bio,201016851,Femenino,Municipal,Cientifico Humanista,22,False
+11809,2023,Coronel,Inscrito,2017.0,Soltero,1998-11-18,Chilena,Centro Educación Integrada De Adultos,5.5,Viii - Bio-Bio,201249775,Masculino,Municipal,Cientifico Humanista,25,True
+1058,2020,Coronel,Inscrito,2016.0,Soltero,1999-02-11,Chilena,Col.S. Francisco De Asis,5.3,Viii - Bio-Bio,201253314,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+385,2018,Coronel,Inscrito,2016.0,Soltero,1999-04-13,Chilena,L.Indust. Fundacion Fschwager,5.7,Viii - Bio-Bio,201254132,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1641,2018,Coronel,Inscrito,2017.0,Soltero,1999-09-22,Chilena,Coronel,5.1,Viii - Bio-Bio,201258928,Masculino,Municipal,Cientifico Humanista,19,False
+11770,2023,Lota,Inscrito,2016.0,Soltero,1999-06-11,Chilena,Liceo Politecnico Rosauro Santana Rios,5.7,Viii - Bio-Bio,201495784,Masculino,Municipal,Tecnico Profesional,24,False
+583,2018,Lota,Inscrito,2017.0,Soltero,1999-08-28,Chilena,Carlos Cousiño Goyenechea,6.4,Viii - Bio-Bio,201497426,Masculino,Municipal,Tecnico Profesional,19,False
+1418,2018,Lota,Inscrito,2017.0,Soltero,1999-11-19,Chilena,Carlos Cousiño Goyenechea,5.7,Viii - Bio-Bio,201499402,Masculino,Municipal,Tecnico Profesional,19,False
+1044,2020,Talcahuano,Inscrito,2016.0,Soltero,1999-01-11,Chilena,L.Las Salinas,5.2,Viii - Bio-Bio,201537819,Masculino,Municipal,Cientifico Humanista,21,False
+11742,2023,Talcahuano,Inscrito,2017.0,Soltero,1999-01-19,Chilena,L.Indust. De La Const. Hernan Val,5.1,Viii - Bio-Bio,201538394,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+1617,2017,Hualqui,Inscrito,2016.0,Soltero,1999-02-17,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.5,Viii - Bio-Bio,201540771,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+6310,2019,La Reina,Inscrito,2017.0,Soltero,1999-04-07,Chilena,Coronel Eleuterio Ramirez Molina,5.4,Rm - Metropolitana,201545021,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5596,2022,Talcahuano,Inscrito,2017.0,Soltero,1999-05-19,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,5.6,Viii - Bio-Bio,201548985,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+451,2019,Chiguayante,Inscrito,2017.0,Soltero,1999-08-06,Chilena,L. Habil. Juan Jose Latorre Benavente,5.6,Viii - Bio-Bio,201554187,Masculino,Municipal,Tecnico Profesional,20,False
+11707,2023,Hualpén,Inscrito,2017.0,Soltero,1999-07-28,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.9,Viii - Bio-Bio,201558603,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+5692,2022,Talcahuano,Inscrito,2017.0,Soltero,1999-10-16,Chilena,L.Tecnico,5.4,Viii - Bio-Bio,201559464,Femenino,Municipal,Tecnico Profesional,23,False
+5365,2022,Hualpen,Inscrito,2017.0,Soltero,1999-12-14,Chilena,Ctro. De Educ.  Evangelico De Hualpe,5.5,Viii - Bio-Bio,201563690,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1209,2021,Chiguayante,Inscrito,2019.0,Soltero,1999-07-24,Chilena,Renacer Col.Adulto,5.4,Viii - Bio-Bio,201573076,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+661,2020,Hualpén,Inscrito,2018.0,Soltero,1999-09-02,Chilena,Col.Polivalente Sn Sebastian De Quil  0,5.0,Viii - Bio-Bio,201623812,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+55,2021,Linares,Inscrito,2017.0,Soltero,1999-08-24,Chilena,Inst. Linares,5.4,Vii - Maule,201698227,Femenino,Particular Subvencionado,Cientifico Humanista,22,False
+561,2020,Concepción,Inscrito,2018.0,Soltero,1999-08-03,Chilena,L.Polit.Computacional A.Nazar,6.0,Viii - Bio-Bio,201739632,Femenino,Municipal,Tecnico Profesional,21,False
+10725,2023,Concepción,Inscrito,2017.0,Soltero,1999-08-14,Chilena,Instituto Com. Alberto Valenzuela Llanos,5.2,Viii - Bio-Bio,201790204,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+2727,2019,San Pedro De La Paz,Inscrito,2017.0,Soltero,1999-02-10,Chilena,L.Indust. Del Bio Bio,5.2,Viii - Bio-Bio,201936403,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1101,2019,Chiguayante,Inscrito,2017.0,Soltero,1999-01-12,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.2,Viii - Bio-Bio,201936527,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1414,2019,Concepcion,Inscrito,2016.0,Soltero,1999-03-23,Chilena,L.Indust. Del Bio Bio,6.2,Viii - Bio-Bio,201940087,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+586,2018,San Pedro De La Paz,Inscrito,2016.0,Soltero,1999-05-10,Chilena,L.Mauricio Holchschild Del Ceat,5.5,Viii - Bio-Bio,201944740,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+11734,2023,Concepción,Inscrito,2017.0,Soltero,1999-06-12,Chilena,Colegio Salesiano De Concepcion,5.2,Viii - Bio-Bio,201946794,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1647,2017,Chiguayante,Inscrito,2016.0,Soltero,1999-06-09,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.7,Viii - Bio-Bio,201947057,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1623,2017,Concepcion,Inscrito,2016.0,Soltero,1999-06-18,Chilena,L.Indust. Del Bio Bio,6.3,Viii - Bio-Bio,201947413,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+396,2018,Chiguayante,Inscrito,2017.0,Soltero,1999-07-06,Chilena,The Pacific School  0,5.4,Viii - Bio-Bio,201949033,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5379,2022,Coronel,Inscrito,2018.0,Soltero,1999-05-03,Chilena,Ctro. Ed  Integrada Adultos,4.7,Viii - Bio-Bio,201949831,Masculino,Municipal,Cientifico Humanista,23,False
+570,2019,San Pedro De La Paz,Inscrito,2017.0,Soltero,1999-07-23,Chilena,L.Enrique Molina Garmendia,5.0,Viii - Bio-Bio,201950570,Masculino,Municipal,Cientifico Humanista,20,False
+11006,2023,Concepción,Inscrito,2017.0,Soltero,1999-08-22,Chilena,Liceo Técnico Femenino A-29 De Concepció,5.8,Viii - Bio-Bio,201953839,Femenino,Particular Subvencionado,Cientifico Humanista,24,False
+269,2021,Chiguayante,Inscrito,2019.0,Soltero,1999-08-09,Chilena,C. De Niv. Y Cap. De Ad. Madre Maria N Y,5.4,Viii - Bio-Bio,201955327,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1128,2021,Concepción,Inscrito,2017.0,Soltero,1999-09-23,Chilena,Republica De Israel,5.7,Viii - Bio-Bio,201956471,Masculino,Municipal,Educacion Básica,22,False
+5626,2022,Hualqui,Inscrito,2018.0,Soltero,1999-10-08,Chilena,L.S. Bautista De Hualqui,5.9,Viii - Bio-Bio,201957923,Masculino,Municipal,Tecnico Profesional,23,False
+2806,2019,Coronel,Inscrito,2018.0,Soltero,1999-11-07,Chilena,Col.Amanecer,5.2,Viii - Bio-Bio,201960290,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11756,2023,Concepción,Inscrito,2022.0,Soltero,1999-11-12,Chilena,Liceo Polivalente Las Salinas,5.1,Viii - Bio-Bio,201961262,Masculino,Municipal,Cientifico Humanista,24,True
+1197,2021,Tomé,Inscrito,2017.0,Soltero,1999-12-16,Chilena,L.Vicente Alberto Palacios Valdes,5.2,Viii - Bio-Bio,201963931,Femenino,Municipal,Cientifico Humanista,22,False
+550,2019,San Pedro De La Paz,Inscrito,2017.0,Soltero,1999-12-23,Chilena,Liceo El Arrayan,5.7,Viii - Bio-Bio,201964504,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+447,2020,Chiguayante,Inscrito,2017.0,Soltero,1999-11-07,Chilena,Ctro. Integral De Educ De Adultos,5.4,Viii - Bio-Bio,201965810,Masculino,Municipal,Tecnico Profesional,21,False
+5604,2022,Concepción,Inscrito,2019.0,Soltero,2000-01-24,Chilena,Liceo Tecnico Profesional La Araucana,5.3,Viii - Bio-Bio,201968631,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+11723,2023,San Pedro De La Paz,Inscrito,2017.0,Soltero,2000-02-18,Chilena,Col. Tecnico Profesional Los Acacios,5.1,Viii - Bio-Bio,201969832,Femenino,Particular Subvencionado,Tecnico Profesional,23,False
+573,2019,Los Alamos,Inscrito,2018.0,Soltero,2000-01-18,Chilena,L.Politecnico De Canete,5.6,Viii - Bio-Bio,201970563,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1237,2020,Concepción,Inscrito,2018.0,Soltero,2000-03-02,Chilena,Liceo Tecnico Profesional La Araucana,5.1,Viii - Bio-Bio,201970989,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+2005,2019,Concepcion,Inscrito,2018.0,Soltero,2000-03-02,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.4,Viii - Bio-Bio,201971098,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1046,2020,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-01-06,Chilena,L.Los Andes,5.4,Viii - Bio-Bio,201974445,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1620,2018,Concepcion,Inscrito,2017.0,Soltero,2000-04-05,Chilena,Liceo Tecnico Profesional La Araucana,6.0,Viii - Bio-Bio,201974771,Femenino,Particular Subvencionado,Tecnico Profesional,18,False
+1050,2020,Coelemu,Inscrito,2016.0,Soltero,1999-05-02,Chilena,Colegio Santa Teresita,5.8,Xvi - De Ñuble,201991390,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+39,2021,Linares,Inscrito,2017.0,Soltero,1999-03-26,Chilena,Col.Part. Lucila Godoy,5.1,Vii - Maule,202028543,Masculino,Particular Subvencionado,Educacion Basica,22,False
+5373,2022,San Bernardo,Inscrito,2018.0,Soltero,1999-11-16,Chilena,Juan Bautista Duran,5.7,Rm - Metropolitana,202079792,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1166,2021,Arica,Inscrito,2017.0,Soltero,1999-12-15,Chilena,Col.Arica College,5.6,Xv - Arica-Pcota,202168175,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+4166,2018,Concepcion,Inscrito,2016.0,Soltero,1999-04-22,Chilena,Lorenzo Arenas Olivo,4.8,Viii - Bio-Bio,202188680,Femenino,Municipal,Tecnico Profesional,19,False
+1174,2021,Linares,Inscrito,2017.0,Soltero,1999-07-23,Chilena,Inst. Comercial,5.5,Vii - Maule,202296394,Masculino,Municipal,Tecnico Profesional,22,False
+1068,2020,Linares,Inscrito,2017.0,Soltero,1999-12-17,Chilena,L.Nuestra Sra.Del Rosario,5.3,Vii - Maule,202306632,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1163,2021,Linares,Inscrito,2018.0,Soltero,2000-04-03,Chilena,Inst. Comercial,5.2,Vii - Maule,202313418,Masculino,Municipal,Tecnico Profesional,21,False
+1189,2020,Concepción,Inscrito,2018.0,Soltero,2000-04-26,Chilena,Liceo Tecnico Profesional La Araucana,5.5,Viii - Bio-Bio,202324509,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+2002,2019,Los Alamos,Inscrito,2018.0,Soltero,2000-08-05,Chilena,Caupolican De Los Alamos,5.2,Viii - Bio-Bio,202325556,Masculino,Municipal,Tecnico Profesional,19,False
+1081,2020,Talcahuano,Inscrito,2019.0,Soltero,2000-01-23,Chilena,E.De Adultos Las Americas,5.8,Viii - Bio-Bio,202504868,Masculino,Municipal,Tecnico Profesional,20,False
+11721,2023,Hualpén,Inscrito,2018.0,Soltero,1999-09-07,Chilena,Escuela Industrial San Jose,4.5,Viii - Bio-Bio,202527493,Masculino,Particular Subvencionado,Cientifico Humanista,24,True
+11818,2023,Chiguayante,Inscrito,2016.0,Soltero,1999-05-23,Chilena,Colegio Salesiano De Concepcion,5.2,Viii - Bio-Bio,202543634,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+1982,2019,Talcahuano,Inscrito,2016.0,Soltero,1999-08-11,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,5.4,Viii - Bio-Bio,202557163,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5706,2022,Hualpén,Inscrito,2017.0,Soltero,1999-09-16,Chilena,Col.Republica Del Brasil,5.6,Viii - Bio-Bio,202561977,Masculino,Municipal,Cientifico Humanista,23,True
+1628,2018,Chiguayante,Inscrito,2017.0,Soltero,1999-11-14,Chilena,L.S. Felipe De Arauco,5.5,Viii - Bio-Bio,202572138,Masculino,Municipal,Tecnico Profesional,19,False
+395,2018,Talcahuano,Inscrito,2017.0,Soltero,1999-11-22,Chilena,L.Experimental Lucila Godoy Alcayaga,5.1,Viii - Bio-Bio,202577229,Masculino,Municipal,Cientifico Humanista,19,False
+1196,2021,Concepcion,Inscrito,2017.0,Soltero,1999-12-16,Chilena,Los Acacios,6.1,Viii - Bio-Bio,202577504,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+1105,2019,Concepcion,Inscrito,2018.0,Soltero,1999-12-16,Chilena,L.Salesiano Domingo Savio,5.4,Viii - Bio-Bio,202578322,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1975,2019,Hualpen,Inscrito,2017.0,Soltero,2000-01-04,Chilena,Padre Luis Amigo,5.8,Viii - Bio-Bio,202580017,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1109,2019,Talcahuano,Inscrito,2019.0,Soltero,2000-01-04,Chilena,S. Cristobal,5.8,Viii - Bio-Bio,202580823,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+10739,2023,Penco,Inscrito,2017.0,Soltero,2000-02-28,Chilena,Col.Republica Del Brasil,5.8,Viii - Bio-Bio,202589235,Masculino,Particular Subvencionado,Cientifico Humanista,23,True
+568,2019,Coronel,Inscrito,2018.0,Soltero,1999-12-22,Chilena,L.Indust. Metodista De Coronel,5.2,Viii - Bio-Bio,202589561,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1714,2019,Talcahuano,Inscrito,2017.0,Soltero,1999-12-22,Chilena,L.Polivalente Tome-Alto  ,6.2,Viii - Bio-Bio,202677851,Masculino,Municipal,Tecnico Profesional,20,False
+1706,2020,Talcahuano,Inscrito,2017.0,Soltero,2000-01-01,Chilena,Col.Etchegoyen,5.5,Viii - Bio-Bio,202715125,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5667,2022,Chillán,Inscrito,2018.0,Soltero,2000-08-03,Chilena,Inst. Superior De Comercio Profesor,6.0,Xvi - De Ñuble,202732127,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+1121,2021,Concepción,Inscrito,2017.0,Soltero,1999-09-22,Chilena,L. Hab. America,5.1,Viii - Bio-Bio,202747000,Masculino,Municipal,Tecnico Profesional,22,False
+1240,2021,Hualpén,Inscrito,2018.0,Soltero,1999-10-23,Chilena,L. Hab. America,5.2,Viii - Bio-Bio,202748600,Masculino,Municipal,Tecnico Profesional,22,False
+1184,2021,Talcahuano,Inscrito,2018.0,Soltero,1999-08-24,Chilena,L.La Asuncion,6.3,Viii - Bio-Bio,202752012,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+439,2020,Hualpén,Inscrito,2019.0,Soltero,1999-10-08,Chilena,E. Salesaina S. Jose,5.8,Viii - Bio-Bio,202753116,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+2748,2020,Talcahuano,Inscrito,2017.0,Soltero,1999-07-20,Chilena,Colegio Adventista De Concepcion,5.2,Viii - Bio-Bio,202753604,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+2802,2019,Talcahuano,Inscrito,2017.0,Soltero,1999-11-16,Chilena,E.De Adultos Las Americas,5.7,Viii - Bio-Bio,202753728,Masculino,Municipal,Tecnico Profesional,20,False
+10730,2023,Talcahuano,Inscrito,2019.0,Soltero,2000-10-03,Chilena,L.Comercial De Talcahuano,5.2,Viii - Bio-Bio,202760589,Masculino,Municipal,Tecnico Profesional,23,False
+1221,2021,Hualpén,Inscrito,2019.0,Soltero,1999-12-15,Chilena,L.Indust. De La Const. Hernan Val,5.0,Viii - Bio-Bio,202775055,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+5510,2021,Chillán,Inscrito,2017.0,Soltero,1999-08-27,Chilena,Ctro. De Est. La Araucana  ,5.9,Xvi - De Ñuble,202967817,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+2484,2019,Las Condes,Inscrito,2018.0,Soltero,2000-03-22,Chilena,La Virgen De Pompeya,5.2,Rm - Metropolitana,203232942,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11758,2023,Talcahuano,Inscrito,2020.0,Soltero,2001-10-10,Chilena,San Pedro Nolasco,5.5,Viii - Bio-Bio,203248334,Masculino,Particular,Cientifico Humanista,22,False
+13579,2023,Concepción,Inscrito,2017.0,Soltero,2000-02-02,Chilena,Liceo Instituto Cumbre De Condores,6.3,Viii - Bio-Bio,203308922,Masculino,Municipal,Cientifico Humanista,23,False
+274,2021,Tome,Inscrito,2015.0,Soltero,2000-07-29,Chilena,L.Comercial De Tome,5.4,Viii - Bio-Bio,203368054,Masculino,Municipal,Tecnico Profesional,21,False
+11766,2023,Arauco,Inscrito,2018.0,Soltero,1999-09-16,Chilena,Colegio El Bosque,5.0,Viii - Bio-Bio,203385226,Masculino,Particular Subvencionado,Cientifico Humanista,24,False
+384,2018,Arauco,Inscrito,2017.0,Soltero,2000-03-27,Chilena,Liceo Politecnico Carampangue,5.9,Viii - Bio-Bio,203386532,Masculino,Municipal,Tecnico Profesional,18,False
+1087,2020,Concepción,Inscrito,2018.0,Soltero,2000-11-07,Chilena,L.Fernando Lazcano,6.0,Viii - Bio-Bio,203455038,Masculino,Municipal,Cientifico Humanista,20,False
+1211,2021,Coronel,Inscrito,2017.0,Soltero,1999-12-11,Chilena,Col.American Junior College  ,5.6,Viii - Bio-Bio,203616317,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+634,2019,Coronel,Inscrito,2018.0,Soltero,2000-05-19,Chilena,L.Indust. Metodista De Coronel,4.9,Viii - Bio-Bio,203620926,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1230,2021,Coronel,Inscrito,2017.0,Soltero,2000-05-28,Chilena,L.Indust. Metodista De Coronel,5.5,Viii - Bio-Bio,203621140,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+5711,2022,Yumbel,Inscrito,2018.0,Soltero,1999-10-20,Chilena,L.Mun. De Yumbel,5.1,Viii - Bio-Bio,203639767,Masculino,Municipal,Cientifico Humanista,23,False
+1648,2020,Yumbel,Inscrito,2017.0,Soltero,2000-05-29,Chilena,L.Mun. De Yumbel,5.8,Viii - Bio-Bio,203641567,Masculino,Municipal,Cientifico Humanista,20,False
+10733,2023,Cañete,Inscrito,2019.0,Soltero,2001-06-09,Chilena,L.Pol. Jose De La Cruz Miranda Corre,5.6,Viii - Bio-Bio,203650248,Masculino,Municipal,Cientifico Humanista,22,False
+2799,2019,Lebu,Inscrito,2017.0,Soltero,1999-11-23,Chilena,L.Isidora Ramos De Gajardo,5.7,Viii - Bio-Bio,203658222,Masculino,Municipal,Cientifico Humanista,20,False
+1111,2019,Tome,Inscrito,2017.0,Soltero,2000-04-01,Chilena,L.Vicente Alberto Palacios Valdes,5.4,Viii - Bio-Bio,203787294,Masculino,Municipal,Cientifico Humanista,19,False
+1563,2020,Tomé,Inscrito,2018.0,Soltero,2000-06-21,Chilena,L.Comercial De Tome,6.0,Viii - Bio-Bio,203788231,Masculino,Municipal,Tecnico Profesional,20,False
+266,2021,Tomé,Inscrito,2018.0,Soltero,2000-08-16,Chilena,L.Indust. De Tome,5.6,Viii - Bio-Bio,203789254,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1552,2019,Tome,Inscrito,2018.0,Soltero,2000-10-21,Chilena,L.Comercial De Tome,5.9,Viii - Bio-Bio,203789920,Masculino,Municipal,Tecnico Profesional,19,False
+5608,2022,Tomé,Inscrito,2018.0,Soltero,2001-01-03,Chilena,L.Vicente Alberto Palacios Valdes,5.5,Viii - Bio-Bio,203790961,Masculino,Municipal,Cientifico Humanista,21,False
+1089,2020,Tomé,Inscrito,2018.0,Soltero,2001-01-09,Chilena,L.Comercial De Tome,5.7,Viii - Bio-Bio,203791127,Masculino,Municipal,Tecnico Profesional,19,False
+582,2018,Concepcion,Inscrito,2017.0,Soltero,2000-01-05,Chilena,L.Mauricio Holchschild Del Ceat,5.6,Viii - Bio-Bio,203862199,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+151,2019,Coelemu,Inscrito,2018.0,Soltero,2000-02-23,Chilena,Domingo Ortiz De Rozas,5.3,Xvi - De Ñuble,203862571,Masculino,Municipal,Tecnico Profesional,19,False
+5636,2022,Coelemu,Inscrito,2018.0,Soltero,2000-03-08,Chilena,Colegio Santa Teresita,6.1,Xvi - De Ñuble,203864531,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+5683,2022,Coronel,Inscrito,2019.0,Soltero,2000-08-01,Chilena,L.Cardenal Antonio Samore,6.1,Viii - Bio-Bio,204118566,Masculino,Municipal,Cientifico Humanista,22,False
+7074,2020,La Cisterna,Inscrito,2018.0,Soltero,2000-01-12,Chilena,Inst. Reg. De Educ. Adultos,6.0,Rm - Metropolitana,204265240,Masculino,Municipal,Cientifico Humanista,20,False
+57,2021,Concepción,Inscrito,2018.0,Soltero,2000-05-19,Chilena,Juan Gregorio Las Heras De La Gacha,5.5,Viii - Bio-Bio,204382271,Masculino,Municipal,Cientifico Humanista,21,False
+549,2019,Tome,Inscrito,2017.0,Soltero,2000-06-02,Chilena,L.Vicente Alberto Palacios Valdes,6.0,Viii - Bio-Bio,204383464,Masculino,Municipal,Cientifico Humanista,19,False
+1183,2021,Talcahuano,Inscrito,2020.0,Soltero,2000-07-23,Chilena,L.Tecnico,6.1,Viii - Bio-Bio,204387346,Masculino,Municipal,Tecnico Profesional,21,False
+445,2020,Tomé,Inscrito,2018.0,Soltero,2000-08-25,Chilena,S. Pedro Nolasco,5.9,Viii - Bio-Bio,204389969,Masculino,Particular,Cientifico Humanista,20,False
+437,2020,Concepción,Inscrito,2018.0,Soltero,2000-09-01,Chilena,L.Salesiano Domingo Savio,5.8,Viii - Bio-Bio,204390533,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+554,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-09-11,Chilena,L.Mauricio Holchschild Del Ceat,5.6,Viii - Bio-Bio,204391254,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1065,2020,Talcahuano,Inscrito,2018.0,Soltero,2000-09-23,Chilena,L.Indust. De La Const. Hernan Val,5.6,Viii - Bio-Bio,204392595,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11137,2023,Tomé,Inscrito,2018.0,Soltero,2000-10-11,Chilena,Colegio Salesiano De Concepcion,5.7,Viii - Bio-Bio,204393850,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1224,2021,Hualpén,Inscrito,2019.0,Soltero,2000-11-19,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,204396728,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1116,2019,Hualpen,Inscrito,2018.0,Soltero,2000-12-03,Chilena,Almirante Pedro Espina Ritche,5.8,Viii - Bio-Bio,204398062,Masculino,Municipal,Cientifico Humanista,19,False
+1053,2020,Chiguayante,Inscrito,2019.0,Soltero,2000-11-28,Chilena,C. De Niv. Y Cap. De Ad. Madre Maria N Y,5.3,Viii - Bio-Bio,204398410,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+2800,2019,Hualpen,Inscrito,2018.0,Soltero,2000-12-12,Chilena,Ctro. De Educ.  Evangelico De Hualpe,5.3,Viii - Bio-Bio,204399328,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1173,2021,Talcahuano,Inscrito,2019.0,Soltero,2000-12-30,Chilena,Almirante Pedro Espina Ritche,5.2,Viii - Bio-Bio,204400369,Masculino,Municipal,Cientifico Humanista,21,False
+1218,2021,Hualqui,Inscrito,2018.0,Soltero,2001-01-04,Chilena,Colegio Aurora De Chile Sur,5.5,Viii - Bio-Bio,204400881,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+10745,2023,Hualpén,Inscrito,2019.0,Soltero,2001-01-14,Chilena,Liceo Simón Bolívar,5.3,Viii - Bio-Bio,204401853,Masculino,Municipal,Cientifico Humanista,22,False
+1970,2019,Talcahuano,Inscrito,2017.0,Soltero,2000-03-23,Chilena,Almirante Pedro Espina Ritche,5.7,Viii - Bio-Bio,204470871,Masculino,Municipal,Cientifico Humanista,19,False
+1564,2020,Los Ángeles,Inscrito,2018.0,Soltero,2000-04-05,Chilena,Col.Saint Geoge School  ,5.0,Viii - Bio-Bio,204697434,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+5476,2019,Valparaiso,Inscrito,2018.0,Soltero,2000-06-29,Chilena,Inst. Comercial Fco. Araya Bennett,5.7,V - Valparaiso,204781974,Masculino,Municipal,Tecnico Profesional,19,False
+1217,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2000-05-18,Chilena,L.S. Pedro,5.4,Viii - Bio-Bio,204871507,Masculino,Municipal,Cientifico Humanista,21,False
+440,2020,Curanilahue,Inscrito,2018.0,Soltero,2000-04-14,Chilena,L.Politecnico Mariano Latorre,5.5,Viii - Bio-Bio,204871698,Masculino,Municipal,Tecnico Profesional,20,False
+435,2020,Coyhaique,Inscrito,2018.0,Soltero,2000-12-04,Chilena,Ctro. Rehabilitac Integral Alborada,5.3,Xi - Aysen,204876606,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+433,2020,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-04-26,Chilena,Liceo El Arrayan,4.9,Viii - Bio-Bio,204881235,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11806,2023,Arauco,Inscrito,2019.0,Soltero,2000-07-06,Chilena,Colegio Almondale Lomas,5.4,Viii - Bio-Bio,204883785,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+5522,2022,Chiguayante,Inscrito,2018.0,Soltero,2000-07-15,Chilena,Republica De Grecia,5.6,Viii - Bio-Bio,204884854,Masculino,Municipal,Educacion Básica,22,False
+1051,2020,Hualpén,Inscrito,2019.0,Soltero,2000-07-24,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.9,Viii - Bio-Bio,204885117,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1215,2021,Chiguayante,Inscrito,2018.0,Soltero,2000-08-02,Chilena,Col.Aurora De Chile  ,6.2,Viii - Bio-Bio,204886113,Femenino,Particular Subvencionado,Cientifico Humanista,21,False
+1115,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-08-09,Chilena,L.Mauricio Holchschild Del Ceat,5.5,Viii - Bio-Bio,204886547,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5717,2022,Lebu,Inscrito,2018.0,Soltero,2000-08-26,Chilena,L.Isidora Ramos De Gajardo,6.4,Viii - Bio-Bio,204888167,Masculino,Municipal,Cientifico Humanista,22,False
+1151,2021,Talcahuano,Inscrito,2018.0,Soltero,2000-08-27,Chilena,E.De Adultos Las Americas,5.0,Viii - Bio-Bio,204888531,Masculino,Municipal,Tecnico Profesional,21,False
+1553,2019,Concepcion,Inscrito,2018.0,Soltero,2000-08-01,Chilena,Col.Republica Del Brasil,5.4,Viii - Bio-Bio,204888760,Masculino,Municipal,Cientifico Humanista,19,False
+1061,2020,Talcahuano,Inscrito,2018.0,Soltero,2000-08-30,Chilena,L.Tecnico,5.9,Viii - Bio-Bio,204890005,Masculino,Municipal,Tecnico Profesional,20,False
+1090,2020,Penco,Inscrito,2018.0,Soltero,2000-11-06,Chilena,L.Pencopolitano,6.0,Viii - Bio-Bio,204897867,Masculino,Municipal,Tecnico Profesional,20,False
+567,2019,Concepcion,Inscrito,2018.0,Soltero,2000-11-08,Chilena,L.Salesiano Domingo Savio,5.6,Viii - Bio-Bio,204898707,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+61,2021,Chiguayante,Inscrito,2018.0,Soltero,2000-11-23,Chilena,Ctro. De Ed  Integral Diego Portales,5.6,Viii - Bio-Bio,204899991,Masculino,Particular,Cientifico Humanista,21,False
+427,2020,Panguipulli,Inscrito,2019.0,Soltero,2001-10-07,Chilena,Esc. Basica Boston Collegesan Bernardo,5.6,Xiv - De Los Rios,204946140,Femenino,Particular Subvencionado,Educacion Basica,19,False
+299,2021,Chillán,Inscrito,2018.0,Soltero,2000-07-02,Chilena,Inst. Sta. Maria,5.4,Xvi - De Ñuble,205003290,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+10727,2023,San Pedro De La Paz,Inscrito,2019.0,Soltero,2000-08-23,Chilena,Colegio San Ignacio,5.2,Viii - Bio-Bio,205006524,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+11,2020,Lota,Inscrito,2017.0,Soltero,2000-06-30,Chilena,Carlos Cousiño Goyenechea,5.6,Viii - Bio-Bio,205128840,Femenino,Municipal,Tecnico Profesional,20,False
+11744,2023,Lota,Inscrito,2018.0,Soltero,2000-09-24,Chilena,Liceo Yobilo De Coronel,6.0,Viii - Bio-Bio,205130438,Masculino,Municipal,Cientifico Humanista,23,False
+1112,2019,Concepcion,Inscrito,2018.0,Soltero,2000-05-22,Chilena,Juan Gregorio Las Heras De La Gacha,5.4,Viii - Bio-Bio,205140794,Masculino,Municipal,Cientifico Humanista,19,False
+11749,2023,Concepcion,Inscrito,2017.0,Soltero,2000-05-28,Chilena,Col. Tecnico Profesional Los Acacios,5.2,Viii - Bio-Bio,205141863,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+1180,2021,Concepción,Inscrito,2021.0,Soltero,2000-06-17,Chilena,L.Jorge S.Chez Ugarte,5.9,Viii - Bio-Bio,205144137,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1135,2021,Concepción,Inscrito,2020.0,Soltero,2000-07-09,Chilena,L.Experimental Lucila Godoy Alcayaga,5.4,Viii - Bio-Bio,205146024,Masculino,Municipal,Cientifico Humanista,21,False
+1069,2020,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-07-28,Chilena,L.Mauricio Holchschild Del Ceat,5.4,Viii - Bio-Bio,205149686,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+448,2020,Cañete,Inscrito,2017.0,Soltero,2000-05-31,Chilena,L.Gabriela Mistral,5.7,Viii - Bio-Bio,205151028,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+2008,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-09-05,Chilena,Liceo El Arrayan,5.4,Viii - Bio-Bio,205153098,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1962,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-09-23,Chilena,Liceo El Arrayan,5.4,Viii - Bio-Bio,205154736,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1138,2021,Coronel,Inscrito,2019.0,Soltero,2000-05-27,Chilena,Ctro. Ed  Integrada Adultos,5.0,Viii - Bio-Bio,205155791,Masculino,Municipal,Cientifico Humanista,21,False
+5654,2022,Concepción,Inscrito,2020.0,Soltero,2000-09-22,Chilena,L.Indust. Del Bio Bio,5.5,Viii - Bio-Bio,205155910,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+446,2020,San Pedro De La Paz,Inscrito,2019.0,Soltero,2000-10-11,Chilena,L.Mauricio Holchschild Del Ceat,5.7,Viii - Bio-Bio,205158057,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+552,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-10-18,Chilena,L.Mauricio Holchschild Del Ceat,5.6,Viii - Bio-Bio,205159509,Femenino,Particular Subvencionado,Tecnico Profesional,19,False
+10726,2023,Cañete,Inscrito,2017.0,Soltero,2000-06-20,Chilena,L.Tec. Prof. Alonso De Ercilla Y Zuñ,5.9,Viii - Bio-Bio,205160469,Femenino,Municipal,Tecnico Profesional,23,False
+300,2021,Hualqui,Inscrito,2018.0,Soltero,2000-11-23,Chilena,L.Obispo S. Miguel  ,5.7,Viii - Bio-Bio,205163891,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+11733,2023,Concepcion,Inscrito,2018.0,Soltero,2000-12-14,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.9,Ix - La Araucania,205164952,Masculino,Particular Subvencionado,Cientifico Humanista,23,True
+37,2021,Concepción,Inscrito,2020.0,Soltero,2000-12-26,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.8,Viii - Bio-Bio,205166351,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+2034,2019,Chiguayante,Inscrito,2018.0,Soltero,2001-02-14,Chilena,Colegio Aurora De Chile Sur,5.3,Viii - Bio-Bio,205170626,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+3791,2020,Coronel,Inscrito,2019.0,Soltero,2001-02-25,Chilena,Coronel,4.8,Viii - Bio-Bio,205171703,Masculino,Municipal,Cientifico Humanista,19,False
+1178,2021,Angol,Inscrito,2020.0,Soltero,2000-12-06,Chilena,L.Enrique Ballacey Cottereau,5.2,Ix - La Araucania,205279415,Masculino,Municipal,Cientifico Humanista,21,False
+5611,2022,San Pedro De La Paz,Inscrito,2018.0,Soltero,2000-11-01,Chilena,Colegio Jahve Nisi,5.5,Viii - Bio-Bio,205500200,Masculino,Particular Subvencionado,Educacion Basica,22,False
+557,2019,Ramadilla,Inscrito,2018.0,Soltero,2000-10-21,Chilena,Liceo Politecnico Carampangue,5.5,Viii - Bio-Bio,205507094,Masculino,Municipal,Tecnico Profesional,19,False
+12684,2021,Concepcion,Inscrito,2019.0,Soltero,2001-12-13,Chilena,Liceo Jorge Alessandri Rodriguez,5.6,Viii - Bio-Bio,205603468,Masculino,Municipal,Tecnico Profesional,20,False
+1064,2020,Cauquenes,Inscrito,2019.0,Soltero,2001-04-19,Chilena,L.Antonio Varas,5.9,Vii - Maule,205702695,Masculino,Municipal,Cientifico Humanista,19,False
+1149,2021,Concepción,Inscrito,2019.0,Soltero,2000-12-01,Chilena,Los Acacios,5.1,Viii - Bio-Bio,205967494,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+5638,2022,Tomé,Inscrito,2018.0,Soltero,2001-04-30,Chilena,Colegio Santa Teresita,6.1,Viii - Bio-Bio,206117206,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5366,2022,Tome,Inscrito,2018.0,Soltero,2001-06-04,Chilena,L.Comercial De Tome,6.0,Viii - Bio-Bio,206117826,Masculino,Municipal,Tecnico Profesional,21,False
+564,2019,Tome,Inscrito,2018.0,Soltero,2001-06-18,Chilena,L.Comercial De Tome,6.0,Viii - Bio-Bio,206118016,Masculino,Municipal,Tecnico Profesional,18,False
+5697,2022,Tomé,Inscrito,2019.0,Soltero,2001-10-26,Chilena,L.Vicente Alberto Palacios Valdes,5.9,Viii - Bio-Bio,206120231,Femenino,Municipal,Cientifico Humanista,21,False
+1191,2021,Tome,Inscrito,2019.0,Soltero,2001-11-23,Chilena,L.Comercial De Tome,5.5,Viii - Bio-Bio,206120657,Masculino,Municipal,Tecnico Profesional,20,False
+5700,2022,Tomé,Inscrito,2019.0,Soltero,2001-12-10,Chilena,L.Vicente Alberto Palacios Valdes,5.5,Viii - Bio-Bio,206120835,Femenino,Municipal,Cientifico Humanista,21,False
+11774,2023,Tomé,Inscrito,2019.0,Soltero,2001-12-12,Chilena,L.Polivalente Tome-Alto  ,6.3,Viii - Bio-Bio,206120878,Masculino,Municipal,Cientifico Humanista,22,False
+1092,2020,Tomé,Inscrito,2019.0,Soltero,2001-12-19,Chilena,L.Vicente Alberto Palacios Valdes,6.0,Viii - Bio-Bio,206120967,Masculino,Municipal,Cientifico Humanista,19,False
+268,2021,Tomé,Inscrito,2019.0,Soltero,2002-02-27,Chilena,L.Vicente Alberto Palacios Valdes,5.5,Viii - Bio-Bio,206121807,Masculino,Municipal,Cientifico Humanista,19,False
+1158,2021,Concepción,Inscrito,2019.0,Soltero,2002-04-07,Chilena,E. Salesaina S. Jose,5.4,Viii - Bio-Bio,206122196,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5712,2022,Coronel,Inscrito,2018.0,Soltero,2000-10-12,Chilena,Coronel,6.0,Viii - Bio-Bio,206127961,Masculino,Municipal,Cientifico Humanista,22,False
+1152,2021,Coronel,Inscrito,2019.0,Soltero,2000-10-27,Chilena,Coronel,5.0,Viii - Bio-Bio,206128313,Masculino,Municipal,Cientifico Humanista,21,False
+290,2021,Coronel,Renunciado,2019.0,Soltero,2000-12-21,Chilena,Col.Amanecer,5.1,Viii - Bio-Bio,206130555,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+35,2021,Coronel,Inscrito,2018.0,Soltero,2001-01-04,Chilena,Ctro. Ed  Integrada Adultos,5.4,Viii - Bio-Bio,206130962,Masculino,Municipal,Cientifico Humanista,20,False
+22,2021,Coronel,Inscrito,2019.0,Soltero,2001-02-23,Chilena,Col.Domingo Parra Corvalan  ,5.9,Viii - Bio-Bio,206132140,Masculino,Particular Subvencionado,Educacion Basica,20,True
+5679,2022,Coronel,Inscrito,2018.0,Soltero,2001-05-24,Chilena,Carlos Cousiño Goyenechea,5.1,Viii - Bio-Bio,206135123,Masculino,Municipal,Tecnico Profesional,21,False
+1179,2021,Coronel,Inscrito,2019.0,Soltero,2001-07-06,Chilena,Col.Amanecer,5.5,Viii - Bio-Bio,206136367,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+11796,2023,Coronel,Inscrito,2019.0,Soltero,2001-07-30,Chilena,Colegio Amanecer,6.2,Viii - Bio-Bio,206137061,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+430,2020,San Pedro De La Paz,Inscrito,2019.0,Soltero,2000-11-17,Chilena,Colegio Fraternidad,5.4,Viii - Bio-Bio,206187824,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5374,2022,Laja,Inscrito,2021.0,Soltero,2002-09-14,Chilena,L.Mauricio Holchschild Del Ceat,5.9,Viii - Bio-Bio,206220821,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5646,2022,Coelemu,Inscrito,2018.0,Soltero,2001-05-25,Chilena,Colegio Santa Teresita,5.3,Xvi - De Ñuble,206287500,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+298,2021,Yungay,Inscrito,2019.0,Soltero,2001-09-04,Chilena,Col.Cholguan,5.5,Xvi - De Ñuble,206294094,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5595,2022,Talcahuano,Inscrito,2019.0,Soltero,2000-12-21,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.1,Viii - Bio-Bio,206304413,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+44,2021,Hualpén,Inscrito,2019.0,Soltero,2001-01-24,Chilena,E. Salesaina S. Jose,5.6,Viii - Bio-Bio,206304871,Masculino,Particular Subvencionado,Tecnico Profesional,20,True
+5359,2022,Coronel,Inscrito,2019.0,Soltero,2001-04-12,Chilena,L.Tecnico,5.2,Viii - Bio-Bio,206305797,Masculino,Municipal,Tecnico Profesional,21,False
+1076,2020,Talcahuano,Inscrito,2019.0,Soltero,2001-04-10,Chilena,Almirante Pedro Espina Ritche,5.1,Viii - Bio-Bio,206305940,Masculino,Municipal,Cientifico Humanista,19,False
+10723,2023,Chiguayante,Inscrito,2020.0,Soltero,2000-12-04,Chilena,Colegio Aurora De Chile Chiguayante,5.2,Viii - Bio-Bio,206432314,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1131,2021,Parral,Inscrito,2019.0,Soltero,2000-12-26,Chilena,E. Los Cuarteles,5.9,Vii - Maule,206509686,Masculino,Municipal,Cientifico Humanista,21,False
+5686,2022,Parral,Inscrito,2019.0,Soltero,2001-08-12,Chilena,E. Concentrada De Parral,6.0,Vii - Maule,206514566,Masculino,Municipal,Cientifico Humanista,21,False
+1231,2021,Concepción,Inscrito,2018.0,Soltero,2000-10-21,Chilena,Republica De Israel,5.8,Viii - Bio-Bio,206553634,Masculino,Municipal,Educacion Básica,21,False
+1102,2019,Cabrero,Inscrito,2018.0,Soltero,2000-12-21,Chilena,Manuel Aristides Zañartu Zañartu,5.5,Viii - Bio-Bio,206557591,Masculino,Municipal,Cientifico Humanista,19,False
+1964,2019,Coronel,Inscrito,2018.0,Soltero,2000-12-26,Chilena,Col.Domingo Parra Corvalan  ,5.6,Viii - Bio-Bio,206563419,Masculino,Particular Subvencionado,Educacion Basica,19,False
+43,2021,Tomé,Inscrito,2019.0,Soltero,2001-03-14,Chilena,L.Vicente Alberto Palacios Valdes,5.3,Viii - Bio-Bio,206767553,Masculino,Municipal,Cientifico Humanista,20,True
+10735,2023,Hualpén,Inscrito,2018.0,Soltero,2001-03-23,Chilena,Colegio Carmela Romero De Espinosa,6.0,Viii - Bio-Bio,206806702,Masculino,Particular,Cientifico Humanista,22,False
+5381,2022,Chiguayante,Inscrito,2021.0,Soltero,2001-12-12,Chilena,Republica De Ecuador,4.9,Viii - Bio-Bio,206811005,Masculino,Municipal,Educacion Básica,21,False
+1075,2020,Los Ángeles,Inscrito,2019.0,Soltero,2001-05-11,Chilena,Hispano Americano,5.0,Viii - Bio-Bio,206864524,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11789,2023,Tomé,Inscrito,2018.0,Soltero,2001-04-30,Chilena,San Pedro Nolasco,5.3,Viii - Bio-Bio,206949716,Masculino,Particular,Cientifico Humanista,22,False
+5662,2022,Concepción,Inscrito,2018.0,Soltero,2001-04-28,Chilena,Australia,5.4,Viii - Bio-Bio,206949872,Masculino,Municipal,Cientifico Humanista,21,False
+4,2019,Talcahuano,Inscrito,2018.0,Soltero,2001-05-14,Chilena,Colegio Adventista De Concepcion,6.1,Viii - Bio-Bio,206950609,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+42,2021,Penco,Inscrito,2018.0,Soltero,2001-03-19,Chilena,Rios De Chile,6.1,Viii - Bio-Bio,206977930,Masculino,Municipal,Tecnico Profesional,20,False
+1395,2019,Concepcion,Inscrito,2018.0,Soltero,2001-04-04,Chilena,Juan Gregorio Las Heras De La Gacha,5.1,Viii - Bio-Bio,206979259,Masculino,Municipal,Cientifico Humanista,18,False
+11004,2023,Lota,Inscrito,2018.0,Soltero,2001-04-22,Chilena,Liceo Carlos Cousiño Goyenechea,5.2,Viii - Bio-Bio,206980737,Masculino,Municipal,Cientifico Humanista,22,False
+1228,2021,Concepción,Inscrito,2019.0,Soltero,2001-04-28,Chilena,L.Andalien,5.1,Viii - Bio-Bio,206981245,Femenino,Municipal,Cientifico Humanista,20,True
+56,2021,Concepción,Inscrito,2020.0,Soltero,2001-05-07,Chilena,Ctro. De Educ.  Adultos Pitagoras,4.7,Viii - Bio-Bio,206981970,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1200,2021,Concepción,Inscrito,2020.0,Soltero,2001-05-22,Chilena,L.Indust. Del Bio Bio,5.3,Viii - Bio-Bio,206983205,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+286,2021,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-05-17,Chilena,L.Mauricio Holchschild Del Ceat,5.6,Viii - Bio-Bio,206984457,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+566,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2001-01-17,Chilena,L.Mauricio Holchschild Del Ceat,5.8,Viii - Bio-Bio,207039012,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+5722,2022,Concepción,Inscrito,2020.0,Soltero,2001-08-28,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,6.1,Viii - Bio-Bio,207122297,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1123,2021,Talcahuano,Inscrito,2020.0,Soltero,2001-07-31,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,5.8,Viii - Bio-Bio,207205532,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+1048,2020,Tomé,Inscrito,2019.0,Soltero,2001-08-31,Chilena,L.Comercial De Tome,6.0,Viii - Bio-Bio,207208310,Masculino,Municipal,Tecnico Profesional,19,False
+58,2021,Concepción,Inscrito,2020.0,Soltero,2001-03-31,Chilena,Republica De Ecuador,5.2,Viii - Bio-Bio,207208531,Masculino,Municipal,Educacion Básica,20,False
+270,2020,Chiguayante,Renunciado,2019.0,Soltero,2001-09-26,Chilena,S. Patricio,5.2,Viii - Bio-Bio,207210323,Masculino,Particular Subvencionado,Educacion Basica,19,False
+281,2021,Penco,Inscrito,2019.0,Soltero,2001-10-02,Chilena,E. Salesaina S. Jose,5.1,Viii - Bio-Bio,207210501,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1120,2021,Talcahuano,Inscrito,2019.0,Soltero,2001-03-17,Chilena,L.La Asuncion,5.1,Viii - Bio-Bio,207257885,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+572,2019,Concepcion,Inscrito,2018.0,Soltero,2001-03-05,Chilena,E. Salesaina S. Jose,5.8,Viii - Bio-Bio,207260886,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+283,2020,Osorno,Renunciado,2019.0,Soltero,2001-04-15,Chilena,"L.""Osorno College""",5.5,X - De Los Lagos,207304751,Masculino,Particular,Cientifico Humanista,19,False
+5652,2022,Penco,Inscrito,2019.0,Soltero,2001-05-30,Chilena,E. Salesaina S. Jose,5.2,Viii - Bio-Bio,207385832,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1118,2021,Chiguayante,Inscrito,2019.0,Soltero,2001-08-14,Chilena,John F Kennedy,5.8,Viii - Bio-Bio,207387584,Masculino,Municipal,Educacion Básica,20,False
+284,2021,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-09-10,Chilena,L.Mauricio Holchschild Del Ceat,5.3,Viii - Bio-Bio,207389692,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5698,2022,Quirihue,Inscrito,2019.0,Soltero,2001-07-30,Chilena,Politecnico Carlos Montane Castro,6.0,Xvi - De Ñuble,207400483,Masculino,Municipal,Tecnico Profesional,21,False
+11778,2023,Talcahuano,Inscrito,2021.0,Soltero,2003-10-11,Chilena,Liceo Tecnico A-4,6.2,Viii - Bio-Bio,207479551,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5350,2022,Tucapel,Inscrito,2021.0,Soltero,2003-07-21,Chilena,Ctro. Ed. Adventista De Los Angeles,6.3,Viii - Bio-Bio,207495158,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5658,2022,Yumbel,Inscrito,2021.0,Soltero,2003-07-07,Chilena,Col.Raiquen,5.8,Viii - Bio-Bio,207496790,Masculino,Particular Subvencionado,Educacion Basica,19,False
+5609,2022,Cabrero,Inscrito,2021.0,Soltero,2003-10-20,Chilena,Manuel Aristides Zañartu Zañartu,6.5,Viii - Bio-Bio,207497606,Masculino,Municipal,Cientifico Humanista,19,False
+1094,2020,Lebu,Inscrito,2019.0,Soltero,2001-06-19,Chilena,L.Politecnico Dr. Rigoberto Iglesias,5.5,Viii - Bio-Bio,207509183,Masculino,Municipal,Tecnico Profesional,19,False
+5599,2022,Curanilahue,Inscrito,2020.0,Soltero,2001-12-27,Chilena,L.Politecnico Mariano Latorre,5.6,Viii - Bio-Bio,207511919,Femenino,Municipal,Tecnico Profesional,21,False
+1187,2020,Curanilahue,Renunciado,2020.0,Soltero,2001-12-27,Chilena,L.Politecnico Curanilahue,5.0,Viii - Bio-Bio,207512079,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+2024,2019,San Pedro De La Paz,Inscrito,2018.0,Soltero,2001-03-28,Chilena,Juan Bosco,5.5,Viii - Bio-Bio,207527556,Masculino,Particular Subvencionado,Educacion Basica,18,False
+1172,2020,Concepcion,Inscrito,2018.0,Soltero,2001-05-16,Chilena,L.Indust. Del Bio Bio,6.2,Viii - Bio-Bio,207757489,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1143,2021,Lebu,Inscrito,2020.0,Soltero,2001-06-01,Chilena,L.Politecnico Dr. Rigoberto Iglesias,5.5,Viii - Bio-Bio,207786195,Masculino,Municipal,Tecnico Profesional,20,False
+276,2020,Santa Juana,Inscrito,2018.0,Soltero,2001-06-10,Chilena,Colegio Jahve Nisi,5.7,Viii - Bio-Bio,207802972,Masculino,Particular Subvencionado,Educacion Basica,19,False
+5655,2022,Hualpén,Inscrito,2019.0,Soltero,2001-06-21,Chilena,Marina De Chile,5.6,Viii - Bio-Bio,207810770,Masculino,Municipal,Cientifico Humanista,21,False
+1192,2021,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-07-10,Chilena,S. Miguel De Los Andes,5.6,Viii - Bio-Bio,207859982,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5590,2022,La Pintana,Inscrito,2020.0,Soltero,2002-09-28,Chilena,Marista Marcelino Champagnat,5.3,Rm - Metropolitana,207932140,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5684,2022,Arauco,Inscrito,2020.0,Soltero,2001-07-31,Chilena,L.S. Francisco De Assis,5.0,Viii - Bio-Bio,208070169,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5696,2022,Coelemu,Inscrito,2020.0,Soltero,2003-01-09,Chilena,Domingo Ortiz De Rozas,5.5,Xvi - De Ñuble,208115707,Masculino,Municipal,Tecnico Profesional,19,False
+5362,2022,Concepción,Inscrito,2019.0,Soltero,2001-07-24,Chilena,L.Mauricio Holchschild Del Ceat,5.7,Viii - Bio-Bio,208252925,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+53,2021,Arauco,Inscrito,2019.0,Soltero,2001-07-30,Chilena,L.S. Felipe De Arauco,5.3,Viii - Bio-Bio,208276441,Masculino,Municipal,Tecnico Profesional,20,False
+40,2021,Talcahuano,Inscrito,2019.0,Soltero,2001-09-11,Chilena,Renacer Col.Adulto,6.6,Viii - Bio-Bio,208379887,Masculino,Particular Subvencionado,Cientifico Humanista,20,True
+1198,2021,Hualpen,Inscrito,2020.0,Soltero,2001-09-13,Chilena,Sagrados Corazones,5.7,Viii - Bio-Bio,208386050,Masculino,Particular,Cientifico Humanista,20,False
+5367,2022,Talcahuano,Inscrito,2020.0,Soltero,2001-09-21,Chilena,Colegio Amanecer Talcahuano,5.5,Viii - Bio-Bio,208456601,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5718,2022,Coronel,Inscrito,2021.0,Soltero,2001-09-04,Chilena,L.Indust. Metodista De Coronel,5.0,Viii - Bio-Bio,208474685,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+5641,2022,Santa Juana,Inscrito,2021.0,Soltero,2001-09-29,Chilena,L.Nueva Zelandia,5.5,Viii - Bio-Bio,208479628,Masculino,Municipal,Tecnico Profesional,21,False
+1157,2021,Coronel,Inscrito,2019.0,Soltero,2001-08-06,Chilena,Carlos Cousiño Goyenechea,5.7,Viii - Bio-Bio,208667106,Masculino,Municipal,Tecnico Profesional,20,False
+11009,2023,Concepción,Inscrito,2019.0,Soltero,2001-09-17,Chilena,"Col.Padre Manuel D""Alzon  ",5.3,Viii - Bio-Bio,208686755,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1164,2021,Arauco,Inscrito,2019.0,Soltero,2001-12-03,Chilena,L.S. Francisco De Assis,6.0,Viii - Bio-Bio,208688847,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+296,2021,Lota,Inscrito,2020.0,Soltero,2001-12-08,Chilena,"Col.Padre Manuel D""Alzon  ",5.3,Viii - Bio-Bio,208688863,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1124,2021,Coronel,Inscrito,2019.0,Soltero,2002-02-22,Chilena,Coronel,5.4,Viii - Bio-Bio,208690337,Masculino,Municipal,Cientifico Humanista,19,False
+5710,2022,Coronel,Inscrito,2019.0,Soltero,2002-03-26,Chilena,L.Tecnico Profesional De La Madera  ,6.8,Viii - Bio-Bio,208690892,Masculino,Particular Subvencionado,Tecnico Profesional,20,True
+1156,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2001-10-08,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.1,Viii - Bio-Bio,208818252,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1167,2021,Concepción,Inscrito,2019.0,Soltero,2001-10-08,Chilena,Sta. Eufrasia,5.3,Viii - Bio-Bio,208830112,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11012,2023,Tomé,Inscrito,2019.0,Soltero,2001-10-18,Chilena,L.Comercial De Tome,6.2,Viii - Bio-Bio,208853945,Masculino,Municipal,Tecnico Profesional,22,False
+11798,2023,Penco,Inscrito,2019.0,Soltero,2001-09-28,Chilena,Liceo Pencopolitano,6.2,Viii - Bio-Bio,208949470,Masculino,Municipal,Cientifico Humanista,22,False
+1208,2021,Hualpén,Inscrito,2019.0,Soltero,2001-10-11,Chilena,Simon Bolivar,6.0,Viii - Bio-Bio,208949780,Femenino,Municipal,Cientifico Humanista,20,False
+1062,2020,Chiguayante,Inscrito,2018.0,Soltero,2001-05-25,Chilena,Col.Aurora De Chile  ,5.3,Viii - Bio-Bio,208984098,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1052,2020,Tomé,Inscrito,2019.0,Soltero,2001-10-24,Chilena,L.Polivalente Tome-Alto  ,5.8,Viii - Bio-Bio,209048256,Masculino,Municipal,Tecnico Profesional,19,False
+10724,2023,Concepción,Inscrito,2019.0,Soltero,2001-10-30,Chilena,The Thomas Jefferson School,6.6,Viii - Bio-Bio,209090554,Masculino,Particular,Cientifico Humanista,22,False
+11803,2023,Chiguayante,Inscrito,2020.0,Soltero,2001-10-28,Chilena,Escuela Basica John F. Kennedy,5.0,Viii - Bio-Bio,209102293,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+275,2021,Talcahuano,Inscrito,2019.0,Soltero,2001-11-23,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,209165910,Masculino,Municipal,Tecnico Profesional,20,False
+1236,2021,Talcahuano,Inscrito,2020.0,Soltero,2001-10-17,Chilena,Almirante Pedro Espina Ritche,5.4,Viii - Bio-Bio,209197219,Masculino,Municipal,Cientifico Humanista,20,False
+1145,2021,Concepción,Inscrito,2019.0,Soltero,2001-12-05,Chilena,Ceia Monsenor Alfredo Silva S.Tiago,5.0,Viii - Bio-Bio,209222795,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5621,2022,Hualqui,Inscrito,2020.0,Soltero,2001-12-12,Chilena,Colegio Aurora De Chile Sur,5.2,Viii - Bio-Bio,209239426,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5708,2022,Cañete,Inscrito,2020.0,Soltero,2002-04-02,Chilena,L.Pol. Jose De La Cruz Miranda Corre,5.9,Viii - Bio-Bio,209282577,Masculino,Municipal,Cientifico Humanista,20,False
+5630,2022,Concepción,Inscrito,2019.0,Soltero,2002-04-23,Chilena,Caupolican De Los Alamos,5.9,Viii - Bio-Bio,209300230,Masculino,Municipal,Tecnico Profesional,20,False
+11777,2023,Concepción,Inscrito,2020.0,Soltero,2001-12-12,Chilena,L.Jorge S.Chez Ugarte,5.7,Viii - Bio-Bio,209404680,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+271,2021,Concepción,Inscrito,2019.0,Soltero,2001-12-19,Chilena,Los Acacios,6.2,Viii - Bio-Bio,209428164,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5688,2022,Concepción,Inscrito,2019.0,Soltero,2001-12-29,Chilena,Col.Ingles British Royal School,5.6,Viii - Bio-Bio,209429187,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5726,2022,Chiguayante,Inscrito,2020.0,Soltero,2001-12-29,Chilena,Colegio El Porvenir School,6.0,Viii - Bio-Bio,209435144,Masculino,Particular Subvencionado,Educacion Basica,21,False
+1150,2021,Chiguayante,Inscrito,2020.0,Soltero,2001-12-29,Chilena,Col.Ingles British Royal School,5.4,Viii - Bio-Bio,209440873,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1078,2020,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-12-30,Chilena,Juan Bosco,5.2,Viii - Bio-Bio,209466848,Masculino,Particular Subvencionado,Educacion Basica,19,False
+5619,2022,Talcahuano,Inscrito,2021.0,Soltero,2002-01-07,Chilena,L.Comercial De Talcahuano,5.8,Viii - Bio-Bio,209469200,Masculino,Municipal,Tecnico Profesional,20,False
+10720,2023,Hualpén,Inscrito,2020.0,Soltero,2001-12-17,Chilena,C.E.I.A Induscap,5.3,Viii - Bio-Bio,209471205,Femenino,Particular Subvencionado,Cientifico Humanista,22,True
+10731,2023,Talcahuano,Inscrito,2019.0,Soltero,2002-01-09,Chilena,Colegio Adventista De Concepcion,5.6,Viii - Bio-Bio,209489333,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1242,2021,Talcahuano,Inscrito,2019.0,Soltero,2002-02-09,Chilena,L.Salesiano Domingo Savio,5.4,Viii - Bio-Bio,209490994,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5723,2022,Los Álamos,Inscrito,2019.0,Soltero,2001-12-16,Chilena,Caupolican De Los Alamos,6.2,Viii - Bio-Bio,209492032,Masculino,Municipal,Tecnico Profesional,21,False
+1185,2021,Penco,Inscrito,2019.0,Soltero,2002-01-15,Chilena,Rios De Chile,5.6,Viii - Bio-Bio,209533774,Masculino,Municipal,Tecnico Profesional,19,False
+5605,2022,Cañete,Inscrito,2020.0,Soltero,2001-08-09,Chilena,L.Gabriela Mistral,5.5,Viii - Bio-Bio,209564696,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+54,2021,Coronel,Inscrito,2019.0,Soltero,2001-07-22,Chilena,Col.Domingo Parra Corvalan  ,6.0,Viii - Bio-Bio,209570475,Masculino,Particular Subvencionado,Educacion Basica,20,True
+5622,2022,Chillán,Inscrito,2020.0,Soltero,2002-02-01,Chilena,Col.Da Vinci,5.3,Xvi - De Ñuble,209610779,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5659,2022,Talcahuano,Inscrito,2019.0,Soltero,2002-02-20,Chilena,L.Indust. De La Const. Hernan Val,5.8,Viii - Bio-Bio,209729237,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+277,2021,Talcahuano,Inscrito,2019.0,Soltero,2002-05-11,Chilena,L.Mauricio Holchschild Del Ceat,5.7,Viii - Bio-Bio,209777401,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1136,2021,Talcahuano,Inscrito,2020.0,Soltero,2002-10-30,Chilena,Colegio Amanecer Talcahuano,5.9,Viii - Bio-Bio,209779439,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+292,2021,Talcahuano,Inscrito,2020.0,Soltero,2003-02-21,Chilena,E. Salesaina S. Jose,6.2,Viii - Bio-Bio,209780569,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+294,2021,Talcahuano,Inscrito,2020.0,Soltero,2003-01-12,Chilena,Colegio Amanecer Talcahuano,5.7,Viii - Bio-Bio,209780992,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+11802,2023,Chiguayante,Inscrito,2021.0,Soltero,2003-05-12,Chilena,Liceo Chiguayante,5.5,Viii - Bio-Bio,209781271,Masculino,Particular Subvencionado,Cientifico Humanista,20,True
+11764,2023,Hualpén,Inscrito,2020.0,Soltero,2003-05-11,Chilena,Colegio Adventista De Concepcion,5.3,Viii - Bio-Bio,209781301,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11757,2023,Talcahuano,Inscrito,2022.0,Soltero,2003-09-15,Chilena,Liceo La Asuncion,5.7,Viii - Bio-Bio,209782847,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5624,2022,Chiguayante,Inscrito,2021.0,Soltero,2002-02-20,Chilena,Cent. De Ed. Int. De Ad. Poeta Alfonso M,6.4,Viii - Bio-Bio,209802791,Femenino,Particular,Cientifico Humanista,20,False
+11755,2023,Talcahuano,Inscrito,2019.0,Soltero,2002-03-15,Chilena,Almirante Pedro Espina Ritche,5.9,Viii - Bio-Bio,209852373,Masculino,Municipal,Cientifico Humanista,21,False
+46,2021,San Pedro De La Paz,Inscrito,2019.0,Soltero,2002-03-24,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,4.8,Viii - Bio-Bio,209915685,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1229,2021,Concepcion,Inscrito,2019.0,Soltero,2002-03-20,Chilena,S. Cristobal,5.3,Viii - Bio-Bio,209922649,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+441,2020,Concepción,Inscrito,2020.0,Soltero,2002-03-30,Chilena,L.S. Jose Del Carmen,5.7,Viii - Bio-Bio,209925516,Masculino,Municipal,Cientifico Humanista,18,False
+5657,2022,Concepción,Inscrito,2019.0,Soltero,2002-03-27,Chilena,E. Salesaina S. Jose,5.3,Viii - Bio-Bio,209928736,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5680,2022,Cañete,Inscrito,2019.0,Soltero,2002-03-27,Chilena,L.Pol. Jose De La Cruz Miranda Corre,6.2,Viii - Bio-Bio,209942917,Masculino,Municipal,Cientifico Humanista,20,False
+36,2021,Talcahuano,Inscrito,2019.0,Soltero,2002-04-04,Chilena,Col.Espiritu S.To,5.4,Viii - Bio-Bio,209964848,Masculino,Particular Subvencionado,Educacion Basica,19,False
+5694,2022,Curanilahue,Inscrito,2019.0,Soltero,2002-04-08,Chilena,Aplicacion,5.7,Viii - Bio-Bio,209978261,Masculino,Municipal,Cientifico Humanista,20,False
+1095,2020,San Pedro De La Paz,Inscrito,2019.0,Soltero,2002-01-30,Chilena,L.Mauricio Holchschild Del Ceat,5.2,Viii - Bio-Bio,209994860,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1045,2020,Collipulli,Inscrito,2020.0,Soltero,2002-04-13,Chilena,Col.Part. Wolfgang Amadeus Mozart,5.6,Ix - La Araucania,210009183,Femenino,Particular Subvencionado,Cientifico Humanista,18,False
+5597,2022,Concepción,Inscrito,2021.0,Soltero,2002-04-17,Chilena,Bautista De Concepcion,5.7,Viii - Bio-Bio,210013725,Masculino,Particular,Cientifico Humanista,20,False
+5627,2022,Chiguayante,Inscrito,2019.0,Soltero,2002-04-30,Chilena,Colegio Aurora De Chile Sur,5.6,Viii - Bio-Bio,210079092,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11007,2023,San Pedro De La Paz,Inscrito,2022.0,Soltero,2002-04-30,Chilena,Liceo Mauricio Hochschild,5.8,Viii - Bio-Bio,210092064,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1195,2021,Los Ángeles,Inscrito,2020.0,Soltero,2002-05-21,Chilena,S. Rafael Arcangel,5.3,Viii - Bio-Bio,210216391,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1199,2021,Hualpén,Inscrito,2020.0,Soltero,2002-05-09,Chilena,Padre Luis Amigo,6.0,Viii - Bio-Bio,210219005,Femenino,Particular Subvencionado,Cientifico Humanista,19,False
+293,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-05-22,Chilena,L.Mauricio Holchschild Del Ceat,6.0,Viii - Bio-Bio,210266186,Femenino,Particular Subvencionado,Tecnico Profesional,19,False
+1140,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-05-18,Chilena,Republica De Israel,5.8,Viii - Bio-Bio,210271864,Masculino,Municipal,Educacion Básica,19,False
+5356,2022,Santa Juana,Inscrito,2021.0,Soltero,2002-04-01,Chilena,Colegio Jahve Nisi,6.4,Viii - Bio-Bio,210294082,Masculino,Particular Subvencionado,Educacion Basica,20,False
+5607,2022,Florida,Inscrito,2020.0,Soltero,2002-06-04,Chilena,Liceo Tecnico Profesional La Araucana,6.2,Viii - Bio-Bio,210295747,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5687,2022,Concepción,Inscrito,2000.0,Soltero,2002-06-04,Chilena,Los Acacios,5.7,Viii - Bio-Bio,210362347,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11710,2023,Tomé,Inscrito,2020.0,Soltero,2002-06-08,Chilena,L.Polivalente Tome-Alto  ,6.3,Viii - Bio-Bio,210388109,Masculino,Municipal,Cientifico Humanista,21,False
+5347,2022,Concepción,Inscrito,2021.0,Soltero,2002-06-14,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.7,Viii - Bio-Bio,210394397,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11746,2023,Penco,Inscrito,2019.0,Soltero,2002-06-19,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.7,Viii - Bio-Bio,210436030,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+1142,2021,Hualpén,Inscrito,2020.0,Soltero,2002-06-21,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.7,Viii - Bio-Bio,210439994,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5592,2022,Yumbel,Inscrito,2021.0,Soltero,2002-08-15,Chilena,Col.Raiquen,5.6,Viii - Bio-Bio,210488324,Masculino,Particular Subvencionado,Educacion Basica,20,False
+5642,2022,Yumbel,Inscrito,2020.0,Soltero,2002-12-07,Chilena,Inst. S. Sebastian Basico,5.5,Viii - Bio-Bio,210489304,Masculino,Particular Subvencionado,Educacion Basica,20,False
+5618,2022,Yungay,Inscrito,2020.0,Soltero,2002-12-23,Chilena,L.Pol. Sn.Jose De La Preciosa S.Gre,5.0,Xvi - De Ñuble,210517480,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+289,2021,Concepción,Inscrito,2020.0,Soltero,2002-11-10,Chilena,L.Comercial De Tome,6.0,Viii - Bio-Bio,210531793,Masculino,Municipal,Tecnico Profesional,19,False
+5378,2022,Tomé,Inscrito,2020.0,Soltero,2002-11-28,Chilena,Liceo Bicentenario De Coronel,6.0,Viii - Bio-Bio,210532161,Masculino,Municipal,Cientifico Humanista,20,True
+1134,2021,Cauquenes,Inscrito,2019.0,Soltero,2002-06-23,Chilena,L.Antonio Varas,6.0,Vii - Maule,210589066,Masculino,Municipal,Cientifico Humanista,19,False
+5369,2022,Coronel,Inscrito,2021.0,Soltero,2002-06-18,Chilena,L.Indust. Fundacion Fschwager,5.8,Viii - Bio-Bio,210600566,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1207,2021,Santa Juana,Inscrito,2020.0,Soltero,2002-06-26,Chilena,L.Nueva Zelandia,5.9,Viii - Bio-Bio,210610774,Masculino,Municipal,Tecnico Profesional,19,False
+1181,2021,Hualpén,Inscrito,2019.0,Soltero,2002-05-01,Chilena,L.Indust. De La Const. Hernan Val,5.2,Viii - Bio-Bio,210613722,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5361,2022,Tomé,Inscrito,2020.0,Soltero,2002-07-03,Chilena,L.Comercial De Tome,5.9,Viii - Bio-Bio,210638431,Masculino,Municipal,Tecnico Profesional,20,False
+1153,2021,Lota,Inscrito,2020.0,Soltero,2002-07-07,Chilena,Carlos Cousiño Goyenechea,6.0,Viii - Bio-Bio,210669302,Masculino,Municipal,Tecnico Profesional,19,False
+5639,2022,Concepción,Inscrito,2020.0,Soltero,2002-07-10,Chilena,Inst. De Humanidades Alfredo Silva S,5.6,Viii - Bio-Bio,210693513,Femenino,Particular,Cientifico Humanista,20,False
+1241,2021,Hualpén,Inscrito,2016.0,Soltero,2002-07-13,Chilena,L.Indust. De La Const. Hernan Val,5.5,Viii - Bio-Bio,210695753,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+11799,2023,Hualpén,Inscrito,2021.0,Soltero,2002-07-13,Chilena,Col.Republica Del Brasil,5.7,Viii - Bio-Bio,210730192,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+11784,2023,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-07-21,Chilena,Liceo Mauricio Hochschild,5.3,Viii - Bio-Bio,210733671,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+11010,2023,Concepción,Inscrito,2020.0,Soltero,2002-07-25,Chilena,Colegio Salesiano De Concepcion,5.5,Viii - Bio-Bio,210773134,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5668,2022,Arauco,Inscrito,2018.0,Soltero,2003-03-30,Chilena,L.S. Felipe De Arauco,5.6,Viii - Bio-Bio,210830049,Masculino,Municipal,Tecnico Profesional,19,False
+1169,2021,Concepción,Inscrito,2020.0,Soltero,2002-08-19,Chilena,Juan Gregorio Las Heras De La Gacha,6.2,Viii - Bio-Bio,210918337,Masculino,Municipal,Cientifico Humanista,19,False
+5735,2022,Concepción,Inscrito,2020.0,Soltero,2002-08-09,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,6.1,Viii - Bio-Bio,210918795,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+279,2021,Concepción,Inscrito,2020.0,Soltero,2002-08-18,Chilena,L.Indust. Del Bio Bio,5.8,Viii - Bio-Bio,210941673,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5690,2022,Parral,Inscrito,2020.0,Soltero,2002-08-22,Chilena,E. Concentrada De Parral,6.4,Vii - Maule,210965165,Masculino,Municipal,Cientifico Humanista,20,False
+5695,2022,Coronel,Inscrito,2020.0,Soltero,2002-08-29,Chilena,L.Comercial Andres Bello Lopez,5.8,Viii - Bio-Bio,210978208,Masculino,Municipal,Tecnico Profesional,20,False
+1160,2021,Tirúa,Inscrito,2020.0,Soltero,2002-10-20,Chilena,L.Tec. Prof. Alonso De Ercilla Y Zuñ,5.8,Viii - Bio-Bio,210985840,Masculino,Municipal,Tecnico Profesional,19,False
+11725,2023,Maipú,Inscrito,2020.0,Soltero,2002-12-08,Chilena,Liceo Nicolas Federico Lohse Vargas,5.2,Rm - Metropolitana,210986154,Femenino,Municipal,Cientifico Humanista,21,True
+925,2019,Concepcion,Inscrito,2016.0,Soltero,1996-03-27,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.1,Viii - Bio-Bio,211046856,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+5725,2022,Curanilahue,Inscrito,2021.0,Soltero,2002-12-23,Chilena,L.Politecnico Mariano Latorre,5.6,Viii - Bio-Bio,211181443,Masculino,Municipal,Tecnico Profesional,20,False
+287,2021,Cañete,Inscrito,2020.0,Soltero,2003-03-20,Chilena,L.Politecnico De Canete,5.5,Viii - Bio-Bio,211183969,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1170,2021,Hualpén,Inscrito,2020.0,Soltero,2002-09-07,Chilena,Liceo Tecnico Profesional La Araucana,5.3,Viii - Bio-Bio,211243392,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+1159,2021,Coronel,Inscrito,2020.0,Soltero,2002-09-14,Chilena,L.Mauricio Holchschild Del Ceat,6.0,Viii - Bio-Bio,211296143,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+272,2021,Hualpén,Inscrito,2020.0,Soltero,2002-09-28,Chilena,L.Chiguayante,5.9,Viii - Bio-Bio,211355166,Femenino,Municipal,Tecnico Profesional,19,False
+5615,2022,Concepción,Inscrito,2021.0,Soltero,2002-09-25,Chilena,L.Pencopolitano,5.9,Viii - Bio-Bio,211360976,Femenino,Municipal,Tecnico Profesional,20,False
+5675,2022,Concepción,Inscrito,2020.0,Soltero,2002-09-26,Chilena,Los Acacios,5.4,Viii - Bio-Bio,211362138,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5372,2022,Hualpén,Inscrito,2021.0,Soltero,2002-09-06,Chilena,L.Indust. Fundacion Fschwager,5.9,Viii - Bio-Bio,211389737,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1119,2021,Chiguayante,Inscrito,2020.0,Soltero,2002-09-12,Chilena,Andres Bello,5.5,Viii - Bio-Bio,211444509,Femenino,Particular Subvencionado,Cientifico Humanista,19,False
+5346,2022,San Pedro De La Paz,Inscrito,2021.0,Soltero,2002-11-01,Chilena,L.Mauricio Holchschild Del Ceat,5.5,Viii - Bio-Bio,211568100,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+1141,2021,Chiguayante,Inscrito,2020.0,Soltero,2002-11-13,Chilena,L.Salesiano Domingo Savio,5.7,Viii - Bio-Bio,211669098,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1162,2021,Cabrero,Inscrito,2020.0,Soltero,2002-11-12,Chilena,Col.Raiquen,6.4,Viii - Bio-Bio,211695323,Masculino,Particular Subvencionado,Educacion Basica,19,False
+5629,2022,Coelemu,Inscrito,2021.0,Soltero,2003-05-07,Chilena,Domingo Ortiz De Rozas,5.8,Xvi - De Ñuble,211708492,Masculino,Municipal,Tecnico Profesional,19,False
+11735,2023,Coelemu,Inscrito,2021.0,Soltero,2003-07-16,Chilena,Domingo Ortiz De Rozas,5.4,Xvi - De Ñuble,211708778,Masculino,Municipal,Cientifico Humanista,20,False
+5601,2022,San Pedro De La Paz,Inscrito,2021.0,Soltero,2002-11-22,Chilena,Inst. S. Pedro,5.7,Viii - Bio-Bio,211751355,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5633,2022,Hualpén,Inscrito,2020.0,Soltero,2002-11-25,Chilena,L.Indust. De La Const. Hernan Val,5.7,Viii - Bio-Bio,211781920,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5635,2022,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-12-05,Chilena,L.De Niñas,5.4,Viii - Bio-Bio,211879424,Femenino,Municipal,Cientifico Humanista,20,False
+11800,2023,Concepción,Inscrito,2021.0,Soltero,2002-12-04,Chilena,L.Jorge S.Chez Ugarte,5.6,Viii - Bio-Bio,211887834,Femenino,Particular Subvencionado,Tecnico Profesional,21,False
+5671,2022,Hualpén,Inscrito,2021.0,Soltero,2002-12-21,Chilena,L.Jose Manuel Balmaceda,5.1,Viii - Bio-Bio,212006912,Masculino,Municipal,Cientifico Humanista,20,False
+11765,2023,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-12-20,Chilena,Liceo Mauricio Hochschild,5.6,Viii - Bio-Bio,212009970,Masculino,Particular Subvencionado,Tecnico Profesional,21,True
+5728,2022,Talcahuano,Inscrito,2020.0,Soltero,2003-01-01,Chilena,Talcahuano,6.3,Viii - Bio-Bio,212031259,Femenino,Particular Subvencionado,Cientifico Humanista,19,False
+5602,2022,Tomé,Inscrito,2020.0,Soltero,2002-12-31,Chilena,Republica De Ecuador,5.3,Viii - Bio-Bio,212050571,Femenino,Municipal,Cientifico Humanista,20,False
+5693,2022,Coronel,Inscrito,2020.0,Soltero,2002-12-23,Chilena,L.Comercial Andres Bello Lopez,6.4,Viii - Bio-Bio,212075906,Masculino,Municipal,Tecnico Profesional,20,True
+11759,2023,Cañete,Inscrito,2020.0,Soltero,2003-01-16,Chilena,Liceo Gabriela Mistral,5.6,Viii - Bio-Bio,212122645,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11660,2022,Paine,Inscrito,2020.0,Soltero,2003-01-20,Chilena,E. Gregorio Morales Miranda,5.6,Rm - Metropolitana,212171980,Masculino,Municipal,Cientifico Humanista,19,False
+5705,2022,Tomé,Inscrito,2020.0,Soltero,2003-01-18,Chilena,Republica De Ecuador,5.4,Viii - Bio-Bio,212182826,Masculino,Municipal,Cientifico Humanista,19,False
+278,2021,Ránquil,Inscrito,2020.0,Soltero,2003-01-25,Chilena,L.Virginio Arias,5.6,Xvi - De Ñuble,212195642,Masculino,Municipal,Cientifico Humanista,18,False
+1213,2021,Hualpen,Inscrito,2020.0,Soltero,2003-01-17,Chilena,Padre Luis Amigo,5.3,Viii - Bio-Bio,212213578,Femenino,Particular Subvencionado,Cientifico Humanista,18,False
+11794,2023,Concepción,Inscrito,2020.0,Soltero,2003-01-24,Chilena,Col. Tecnico Profesional Los Acacios,5.6,Viii - Bio-Bio,212228524,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11722,2023,Talcahuano,Inscrito,2020.0,Soltero,2003-01-20,Chilena,Liceo Comercial Femenino De Concepcion,5.7,Viii - Bio-Bio,212235210,Femenino,Particular Subvencionado,Cientifico Humanista,20,False
+10999,2023,San Pedro De La Paz,Inscrito,2020.0,Soltero,2003-02-03,Chilena,Liceo Mauricio Hochschild,5.6,Viii - Bio-Bio,212279811,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+10993,2023,San Pedro De La Paz,Inscrito,2021.0,Soltero,2003-02-07,Chilena,Liceo Mauricio Hochschild,5.8,Viii - Bio-Bio,212293784,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11769,2023,Penco,Inscrito,2020.0,Soltero,2003-02-01,Chilena,Liceo Enrique Molina Garmendia,5.9,Viii - Bio-Bio,212311510,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1226,2021,Coyhaique,Inscrito,2020.0,Soltero,2003-02-28,Chilena,Ctro. Rehabilitac Integral Alborada,5.9,Xi - Aysen,212472662,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+5701,2022,Hualpén,Inscrito,2020.0,Soltero,2003-03-05,Chilena,"Colegio "" Emanuel""",5.2,Viii - Bio-Bio,212511374,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5665,2022,Concepción,Inscrito,2020.0,Soltero,2003-03-04,Chilena,S. Pedro Nolasco,5.7,Viii - Bio-Bio,212533629,Masculino,Particular,Cientifico Humanista,19,True
+5673,2022,Curanilahue,Inscrito,2021.0,Soltero,2003-03-06,Chilena,L.Politecnico Mariano Latorre,6.0,Viii - Bio-Bio,212544566,Masculino,Municipal,Tecnico Profesional,19,False
+5685,2022,Tomé,Inscrito,2020.0,Soltero,2003-03-11,Chilena,L.Comercial De Tome,5.5,Viii - Bio-Bio,212552046,Masculino,Municipal,Tecnico Profesional,19,False
+1233,2021,Los Ángeles,Inscrito,2020.0,Soltero,2003-03-14,Chilena,Ctro. Ed. Adventista De Los Angeles,6.0,Viii - Bio-Bio,212572829,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1133,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2003-03-13,Chilena,L.Indust. Metodista De Coronel,5.4,Viii - Bio-Bio,212586404,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+5368,2022,Hualpén,Inscrito,2020.0,Soltero,2003-03-22,Chilena,L.Salesiano Domingo Savio,5.7,Viii - Bio-Bio,212620823,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+1175,2021,Tomé,Inscrito,2020.0,Soltero,2003-03-25,Chilena,L.Comercial De Tome,5.5,Viii - Bio-Bio,212645419,Masculino,Municipal,Tecnico Profesional,18,False
+5715,2022,Hualpén,Inscrito,2020.0,Soltero,2003-04-02,Chilena,L.Indust. De La Const. Hernan Val,5.5,Viii - Bio-Bio,212696064,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5625,2022,Hualpén,Inscrito,2021.0,Soltero,2003-04-13,Chilena,L.Indust. De La Const. Hernan Val,5.7,Viii - Bio-Bio,212777617,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+11743,2023,Hualpén,Inscrito,2020.0,Soltero,2003-04-12,Chilena,Colegio Adventista De Concepcion,6.0,Viii - Bio-Bio,212804819,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1182,2021,Hualpén,Inscrito,2020.0,Soltero,2003-04-18,Chilena,Los Acacios,5.4,Viii - Bio-Bio,212807974,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+10994,2023,Concepción,Inscrito,2020.0,Soltero,2003-04-28,Chilena,Liceo Chiguayante,5.3,Viii - Bio-Bio,212860719,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5691,2022,Talcahuano,Inscrito,2020.0,Soltero,2003-04-25,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,212868876,Masculino,Municipal,Tecnico Profesional,19,False
+11807,2023,Hualpén,Inscrito,2020.0,Soltero,2003-05-02,Chilena,Centro Educación Evangélico De Hualpén,5.4,Viii - Bio-Bio,212878049,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11782,2023,Coronel,Inscrito,2020.0,Soltero,2003-05-14,Chilena,Liceo Industrial Metodista De Coronel,6.3,Viii - Bio-Bio,212999415,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11003,2023,Collipulli,Inscrito,2020.0,Soltero,2003-05-09,Chilena,Complejo Educacional Collipulli,5.5,Ix - La Araucania,213037943,Masculino,Municipal,Cientifico Humanista,20,False
+1234,2021,Concepción,Inscrito,2020.0,Soltero,2003-05-27,Chilena,Leopoldo Lucero Gonzalez,6.2,Viii - Bio-Bio,213075489,Masculino,Municipal,Educacion Básica,18,False
+1206,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2003-06-02,Chilena,L.Los Andes,5.6,Viii - Bio-Bio,213089293,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1117,2021,Hualpén,Inscrito,2020.0,Soltero,2003-06-09,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.7,Viii - Bio-Bio,213157086,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+11724,2023,Coronel,Inscrito,2022.0,Soltero,2003-06-02,Chilena,Liceo Coronel Antonio Salamanca,5.6,Viii - Bio-Bio,213166581,Masculino,Municipal,Cientifico Humanista,20,False
+11738,2023,Aisén,Inscrito,2021.0,Soltero,2003-06-15,Chilena,Colegio Kalem Bicentenario,6.0,Xi - Aysen,213177060,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+10722,2023,Coronel,Inscrito,2022.0,Soltero,2003-05-28,Chilena,Liceo Yobilo De Coronel,5.8,Viii - Bio-Bio,213226142,Masculino,Municipal,Cientifico Humanista,20,False
+1202,2021,Lota,Inscrito,2020.0,Soltero,2003-06-23,Chilena,L.Indust. Metodista De Coronel,6.1,Viii - Bio-Bio,213241915,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+1210,2021,Coronel,Inscrito,2020.0,Soltero,2003-06-23,Chilena,Yobilo De Coronel,5.3,Viii - Bio-Bio,213249819,Masculino,Municipal,Tecnico Profesional,18,False
+301,2021,Yumbel,Inscrito,2020.0,Soltero,2003-06-24,Chilena,Inst. S. Sebastian Basico,5.8,Viii - Bio-Bio,213261045,Femenino,Particular Subvencionado,Educacion Basica,18,False
+11709,2023,Lota,Inscrito,2022.0,Soltero,2003-06-27,Chilena,Liceo Carlos Cousiño Goyenechea,5.1,Viii - Bio-Bio,213266055,Masculino,Municipal,Cientifico Humanista,20,False
+5656,2022,Lebu,Inscrito,2020.0,Soltero,2003-06-06,Chilena,L.Isidora Ramos De Gajardo,5.6,Viii - Bio-Bio,213275984,Masculino,Municipal,Cientifico Humanista,19,False
+5344,2022,Talcahuano,Inscrito,2021.0,Soltero,2003-06-27,Chilena,Almirante Pedro Espina Ritche,5.2,Viii - Bio-Bio,213324802,Masculino,Municipal,Cientifico Humanista,19,False
+10997,2023,Penco,Inscrito,2021.0,Soltero,2003-07-26,Chilena,Colegio Gran Bretaña,5.4,Viii - Bio-Bio,213490443,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5603,2022,Santa Juana,Inscrito,2021.0,Soltero,2003-07-30,Chilena,L.Nueva Zelandia,5.9,Viii - Bio-Bio,213538551,Masculino,Municipal,Tecnico Profesional,19,False
+5707,2022,Hualpén,Inscrito,2021.0,Soltero,2003-07-28,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.6,Viii - Bio-Bio,213552511,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5593,2022,Coronel,Inscrito,2021.0,Soltero,2004-02-03,Chilena,Coronel,5.9,Viii - Bio-Bio,213664867,Masculino,Municipal,Cientifico Humanista,18,False
+11795,2023,Tomé,Inscrito,2021.0,Soltero,2003-08-16,Chilena,L.Polivalente Tome-Alto  ,6.6,Viii - Bio-Bio,213707558,Masculino,Municipal,Cientifico Humanista,20,False
+5617,2022,Coronel,Inscrito,2021.0,Soltero,2003-08-09,Chilena,Col.Amanecer,5.2,Viii - Bio-Bio,213740490,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5616,2022,Coronel,Inscrito,2021.0,Soltero,2003-08-22,Chilena,Col.Amanecer,5.8,Viii - Bio-Bio,213755412,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11716,2023,Coronel,Inscrito,2021.0,Sin.Ac,2003-09-04,Chilena,Liceo Industrial Metodista De Coronel,5.8,Viii - Bio-Bio,213823655,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5620,2022,Diego De Almagro,Inscrito,2021.0,Soltero,2003-09-11,Chilena,L.Manuel Magalhaes Medling,5.6,Iii - Atacama,213870149,Masculino,Municipal,Tecnico Profesional,19,False
+11002,2023,Talcahuano,Inscrito,2021.0,Soltero,2003-09-09,Chilena,Col.Etchegoyen  ,6.3,Viii - Bio-Bio,213892436,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11781,2023,Coronel,Inscrito,2021.0,Soltero,2003-07-24,Chilena,Liceo Nueva Zelandia,6.1,Viii - Bio-Bio,213899988,Masculino,Municipal,Cientifico Humanista,20,True
+5360,2022,Hualpén,Inscrito,2021.0,Soltero,2003-09-11,Chilena,Colegio Adventista De Concepcion,5.5,Viii - Bio-Bio,213918869,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5352,2022,Lota,Inscrito,2021.0,Soltero,2003-09-12,Chilena,Carlos Cousiño Goyenechea,6.0,Viii - Bio-Bio,214009102,Masculino,Municipal,Tecnico Profesional,19,False
+5643,2022,Los Álamos,Inscrito,2021.0,Soltero,2003-09-23,Chilena,Cristo Redentor,5.4,Viii - Bio-Bio,214025515,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5348,2022,Parral,Inscrito,2021.0,Soltero,2003-07-25,Chilena,L.Federico Heise Marti,5.6,Vii - Maule,214046806,Masculino,Municipal,Tecnico Profesional,19,False
+6697,2022,San Pedro De La Paz,Inscrito,2021.0,Soltero,2003-10-01,Chilena,L.Mauricio Holchschild Del Ceat,5.9,Viii - Bio-Bio,214082438,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+11715,2023,Chiguayante,Inscrito,2021.0,Sin.Ac,2003-10-11,Chilena,Colegio Particular Andrés Bello,5.4,Viii - Bio-Bio,214100533,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11763,2023,Coronel,Inscrito,2021.0,Soltero,2003-10-14,Chilena,Liceo Industrial Metodista De Coronel,5.1,Viii - Bio-Bio,214130408,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+5674,2022,Lota,Inscrito,2021.0,Soltero,2003-10-14,Chilena,Carlos Cousiño Goyenechea,6.2,Viii - Bio-Bio,214170167,Masculino,Municipal,Tecnico Profesional,19,False
+5661,2022,Coronel,Inscrito,2021.0,Soltero,2003-09-29,Chilena,L.Comercial Andres Bello Lopez,5.8,Viii - Bio-Bio,214203529,Masculino,Municipal,Tecnico Profesional,19,False
+11713,2023,Lota,Inscrito,2021.0,Soltero,2003-10-28,Chilena,Liceo Carlos Cousiño Goyenechea,5.7,Viii - Bio-Bio,214280671,Masculino,Municipal,Cientifico Humanista,20,False
+5600,2022,Palmilla,Inscrito,2021.0,Soltero,2003-10-15,Chilena,L.Sta. Cruz,5.7,Vi - Lib B Ohiggins,214310643,Masculino,Municipal,Cientifico Humanista,19,False
+5644,2022,Tomé,Inscrito,2021.0,Soltero,2003-10-31,Chilena,L.Comercial De Tome,6.6,Viii - Bio-Bio,214318598,Masculino,Municipal,Tecnico Profesional,19,False
+11773,2023,Arauco,Inscrito,2022.0,Soltero,2003-11-02,Chilena,Centro Integral De Adultos Paul Harris,6.1,Viii - Bio-Bio,214333562,Masculino,Municipal,Cientifico Humanista,20,True
+5382,2022,Lota,Inscrito,2021.0,Soltero,2003-11-06,Chilena,Baldomero Lillo,6.4,Viii - Bio-Bio,214405350,Masculino,Municipal,Educacion Básica,19,False
+11775,2023,Penco,Inscrito,2021.0,Sin.Ac,2003-11-18,Chilena,Liceo Pencopolitano,6.4,Viii - Bio-Bio,214465698,Femenino,Municipal,Cientifico Humanista,20,False
+5351,2022,Coronel,Inscrito,2021.0,Soltero,2003-11-26,Chilena,Col.American Junior College  ,5.5,Viii - Bio-Bio,214525526,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5345,2022,Talcahuano,Inscrito,2021.0,Soltero,2003-11-05,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,214528800,Masculino,Municipal,Tecnico Profesional,19,False
+11005,2023,San Pedro De La Paz,Inscrito,2021.0,Soltero,2003-11-26,Chilena,Liceo Mauricio Hochschild,5.8,Viii - Bio-Bio,214545764,Femenino,Particular Subvencionado,Tecnico Profesional,20,False
+11740,2023,Concepción,Inscrito,2021.0,Soltero,2003-12-04,Chilena,Col. Tecnico Profesional Los Acacios,5.6,Viii - Bio-Bio,214566206,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+11817,2023,Tomé,Inscrito,2021.0,Soltero,2003-12-03,Chilena,Escuela Particular Margarita Naseau,6.2,Viii - Bio-Bio,214607476,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5732,2022,Coronel,Inscrito,2021.0,Soltero,2003-12-24,Chilena,Yobilo De Coronel,5.4,Viii - Bio-Bio,214707632,Masculino,Municipal,Tecnico Profesional,19,False
+11717,2023,Concepción,Inscrito,2022.0,Soltero,2003-12-18,Chilena,Colegio Gran Bretaña,5.5,Viii - Bio-Bio,214774321,Masculino,Particular Subvencionado,Cientifico Humanista,20,True
+11767,2023,San Pedro De La Paz,Inscrito,2021.0,Soltero,2004-01-07,Chilena,Colegio Concepcion,4.9,Viii - Bio-Bio,214800039,Masculino,Particular,Cientifico Humanista,19,False
+11729,2023,Hualpén,Inscrito,2021.0,Soltero,2004-01-07,Chilena,Colegio Bautista De Concepcion,6.0,Viii - Bio-Bio,214816237,Masculino,Particular,Cientifico Humanista,19,False
+5612,2022,Santa Bárbara,Inscrito,2018.0,Soltero,2003-12-02,Chilena,L.Cardenal Antonio Samore,5.3,Viii - Bio-Bio,214882973,Masculino,Municipal,Cientifico Humanista,19,False
+5640,2022,Coronel,Inscrito,2021.0,Soltero,2004-01-20,Chilena,Col.American Junior College  ,6.0,Viii - Bio-Bio,214902095,Femenino,Particular Subvencionado,Cientifico Humanista,18,False
+8326,2022,San Pedro De La Paz,Inscrito,2021.0,Soltero,2004-01-08,Chilena,L.Comercial Enrique Oyarzun Mondaca,4.8,Viii - Bio-Bio,214905442,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+5610,2022,Concepción,Inscrito,2021.0,Soltero,2003-12-22,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.5,Viii - Bio-Bio,214968290,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5660,2022,Coronel,Inscrito,2021.0,Soltero,2004-02-11,Chilena,Coronel,5.1,Viii - Bio-Bio,215065227,Masculino,Municipal,Cientifico Humanista,18,False
+5672,2022,Penco,Inscrito,2021.0,Soltero,2004-02-23,Chilena,L.Pencopolitano,5.8,Viii - Bio-Bio,215169863,Masculino,Municipal,Tecnico Profesional,18,False
+5670,2022,Los Ángeles,Inscrito,2021.0,Soltero,2004-02-28,Chilena,Colegio Instituto Cristiano Gracia Y Paz,5.6,Viii - Bio-Bio,215220494,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+10719,2023,Chillán,Inscrito,2021.0,Soltero,2004-03-26,Chilena,Colegio Chillan,5.6,Xvi - De Ñuble,215358585,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5606,2022,Yumbel,Inscrito,2021.0,Soltero,2004-03-17,Chilena,Col.Raiquen,5.5,Viii - Bio-Bio,215360970,Masculino,Particular Subvencionado,Educacion Basica,18,False
+11821,2023,Tomé,Inscrito,2021.0,Soltero,2004-03-27,Chilena,Domingo Ortiz De Rozas,6.3,Viii - Bio-Bio,215381730,Femenino,Municipal,Cientifico Humanista,19,False
+10732,2023,Arauco,Inscrito,2022.0,Soltero,2004-03-05,Chilena,Liceo Bicentenario San Felipe De Arauco,5.0,Viii - Bio-Bio,215390217,Masculino,Municipal,Cientifico Humanista,19,False
+291,2021,Chiguayante,Inscrito,2020.0,Soltero,2004-03-26,Chilena,C. De Niv. Y Cap. De Ad. Madre Maria N Y,6.4,Viii - Bio-Bio,215405621,Masculino,Particular Subvencionado,Cientifico Humanista,17,False
+10988,2023,Negrete,Inscrito,2022.0,Soltero,2004-04-04,Chilena,Liceo Polivalente La Frontera,5.0,Viii - Bio-Bio,215461572,Femenino,Municipal,Cientifico Humanista,19,True
+5631,2022,Hualpén,Inscrito,2021.0,Soltero,2004-04-11,Chilena,L.Indust. De La Const. Hernan Val,5.7,Viii - Bio-Bio,215489736,Masculino,Particular Subvencionado,Tecnico Profesional,18,False
+11732,2023,Concepción,Inscrito,2022.0,Soltero,2004-04-25,Chilena,Colegio Particular Andrés Bello,5.3,Viii - Bio-Bio,215600688,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11719,2023,Coronel,Inscrito,2022.0,Soltero,2004-04-23,Chilena,Liceo Coronel Antonio Salamanca,6.3,Viii - Bio-Bio,215603865,Masculino,Municipal,Cientifico Humanista,19,False
+11805,2023,Talcahuano,Inscrito,2021.0,Soltero,2004-05-01,Chilena,Arturo Prat Chacon,6.4,Viii - Bio-Bio,215615871,Masculino,Particular,Cientifico Humanista,19,False
+11754,2023,Arauco,Inscrito,2018.0,Soltero,2001-01-16,Chilena,Liceo Bicentenario San Felipe De Arauco,5.6,Viii - Bio-Bio,215826767,Masculino,Municipal,Cientifico Humanista,22,False
+11804,2023,Talcahuano,Inscrito,2022.0,Soltero,2004-06-03,Chilena,L.Indust. De La Const. Hernan Val,5.6,Viii - Bio-Bio,215916650,Masculino,Particular Subvencionado,Tecnico Profesional,19,True
+11801,2023,San Pedro De La Paz,Inscrito,2022.0,Soltero,2004-06-12,Chilena,L.Comercial Enrique Oyarzun Mondaca,5.5,Viii - Bio-Bio,215936759,Masculino,Particular Subvencionado,Cientifico Humanista,19,True
+11797,2023,Arauco,Inscrito,2021.0,Soltero,2004-06-06,Chilena,Liceo Bicentenario San Felipe De Arauco,5.3,Viii - Bio-Bio,215948773,Masculino,Municipal,Cientifico Humanista,19,False
+11813,2023,Arauco,Inscrito,2022.0,Soltero,2004-05-22,Chilena,Centro Integral De Adultos Paul Harris,5.5,Viii - Bio-Bio,215982106,Masculino,Municipal,Cientifico Humanista,19,False
+11728,2023,Curanilahue,Inscrito,2021.0,Soltero,2004-06-16,Chilena,Colegio Alonso De Ercilla,5.5,Viii - Bio-Bio,215986381,Femenino,Particular Subvencionado,Cientifico Humanista,19,False
+10742,2023,Angol,Inscrito,2022.0,Soltero,2004-06-22,Chilena,Liceo Comercial Armando Bravo Bravo,5.8,Ix - La Araucania,216026438,Femenino,Municipal,Tecnico Profesional,19,False
+11785,2023,Lota,Inscrito,2022.0,Soltero,2004-06-29,Chilena,Liceo Carlos Cousiño Goyenechea,5.8,Viii - Bio-Bio,216078586,Masculino,Municipal,Cientifico Humanista,19,False
+11812,2023,Cabrero,Inscrito,2022.0,Soltero,2004-07-07,Chilena,Liceo Manuel Arístides Zañartu,6.4,Viii - Bio-Bio,216109317,Masculino,Municipal,Cientifico Humanista,19,False
+5704,2022,Coronel,Inscrito,2021.0,Soltero,2004-06-26,Chilena,L.Indust. Fundacion Fschwager,4.8,Viii - Bio-Bio,216124480,Femenino,Particular Subvencionado,Tecnico Profesional,18,False
+10991,2023,Tomé,Inscrito,2022.0,Soltero,2004-07-16,Chilena,L.Comercial De Tome,5.6,Viii - Bio-Bio,216170326,Masculino,Municipal,Tecnico Profesional,19,False
+11779,2023,Penco,Inscrito,2021.0,Soltero,2004-06-29,Chilena,Liceo Pencopolitano,6.1,Viii - Bio-Bio,216203844,Masculino,Municipal,Cientifico Humanista,19,False
+11712,2023,Cabrero,Inscrito,2022.0,Soltero,2004-07-21,Chilena,Liceo Manuel Arístides Zañartu,6.4,Viii - Bio-Bio,216244923,Masculino,Municipal,Cientifico Humanista,19,False
+10738,2023,Chiguayante,Inscrito,2022.0,Soltero,2004-07-29,Chilena,C. De Niv. Y Cap. De Ad. Madre Maria N Y,5.2,Viii - Bio-Bio,216267966,Masculino,Particular Subvencionado,Cientifico Humanista,19,True
+11844,2023,Chiguayante,Inscrito,2022.0,Soltero,2004-08-14,Chilena,Liceo Chiguayante,5.8,Viii - Bio-Bio,216357302,Masculino,Particular Subvencionado,Cientifico Humanista,19,True
+11793,2023,Cobquecura,Inscrito,2022.0,Soltero,2004-08-11,Chilena,Liceo Polivalente Diego Missene Burgos,5.9,Xvi - De Ñuble,216363728,Masculino,Municipal,Cientifico Humanista,19,False
+11771,2023,Arauco,Inscrito,2022.0,Soltero,2004-09-20,Chilena,Colegio El Bosque,5.6,Viii - Bio-Bio,216618211,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11750,2023,Coronel,Inscrito,2022.0,Soltero,2004-11-12,Chilena,Escuela Rosita Renard,5.8,Viii - Bio-Bio,217084326,Femenino,Municipal,Cientifico Humanista,19,False
+11792,2023,Arauco,Inscrito,2022.0,Soltero,2004-11-22,Chilena,Liceo Bicentenario San Felipe De Arauco,5.1,Viii - Bio-Bio,217104130,Masculino,Municipal,Cientifico Humanista,19,True
+11000,2023,Tome,Inscrito,2022.0,Soltero,2004-11-26,Chilena,L.Comercial De Tome,5.8,Viii - Bio-Bio,217139864,Masculino,Municipal,Tecnico Profesional,19,False
+10728,2023,Concepción,Inscrito,2022.0,Soltero,2004-11-30,Chilena,Colegio Adventista De Concepcion,5.3,Viii - Bio-Bio,217162629,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11711,2023,Coronel,Inscrito,2022.0,Soltero,2004-12-04,Chilena,Liceo Comercial Andres Bello Lopez,6.6,Viii - Bio-Bio,217183162,Masculino,Municipal,Tecnico Profesional,19,False
+11760,2023,Coronel,Inscrito,2022.0,Soltero,2004-12-24,Chilena,Liceo Coronel Antonio Salamanca,5.6,Viii - Bio-Bio,217388791,Masculino,Municipal,Cientifico Humanista,19,False
+11822,2023,Yungay,Inscrito,2022.0,Soltero,2004-12-22,Chilena,Colegio Misionero Jose Lancaster,5.5,Xvi - De Ñuble,217390230,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11788,2023,Concepción,Inscrito,2022.0,Soltero,2005-01-14,Chilena,Colegio Juan Gregorio Las Heras,6.1,Viii - Bio-Bio,217510694,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+11772,2023,Concepción,Inscrito,2022.0,Soltero,2005-03-04,Chilena,Col. Tecnico Profesional Los Acacios,5.8,Viii - Bio-Bio,217891051,Femenino,Particular Subvencionado,Tecnico Profesional,18,False
+11786,2023,Tome,Inscrito,2022.0,Soltero,2005-03-31,Chilena,Domingo Ortiz De Rozas,6.1,Viii - Bio-Bio,218081215,Masculino,Municipal,Cientifico Humanista,18,True
+11823,2023,Talcahuano,Inscrito,2022.0,Soltero,2005-05-11,Chilena,Liceo La Asuncion,5.5,Viii - Bio-Bio,218363873,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+584,2018,Tome,Inscrito,2016.0,Soltero,1998-09-06,Chilena,L.Comercial De Tome,5.8,Viii - Bio-Bio,218366236,Masculino,Municipal,Tecnico Profesional,20,False
+11753,2023,Yumbel,Inscrito,2023.0,Soltero,2005-05-14,Chilena,Colegio Raiquen,6.4,Viii - Bio-Bio,218424422,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+11727,2023,Los Angeles,Inscrito,2023.0,Soltero,2005-06-05,Chilena,Liceo Politecnico De Castro,5.4,Viii - Bio-Bio,218529208,Masculino,Municipal,Tecnico Profesional,18,False
+537,2020,Talcahuano,Inscrito,2018.0,Soltero,1999-06-13,Chilena,Almirante Pedro Espina Ritche,5.3,Viii - Bio-Bio,220399516,Masculino,Municipal,Cientifico Humanista,21,False
+11001,2023,Hualpén,Inscrito,2022.0,Soltero,2004-09-28,Chilena,Liceo Simón Bolívar,6.4,Viii - Bio-Bio,226039570,Masculino,Municipal,Cientifico Humanista,19,False
+394,2018,Talcahuano,Inscrito,2017.0,Soltero,1999-10-18,Chilena,L.La Asuncion,5.7,Viii - Bio-Bio,226722564,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+5598,2022,Concepción,Inscrito,2021.0,Soltero,2004-09-18,Venezolana,Padre Luis Amigo,5.2,Viii - Bio-Bio,263756274,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
+1165,2021,Hualpén,Inscrito,2020.0,Soltero,2002-08-22,Venezolana,Liceo Tecnico Profesional La Araucana,5.5,Viii - Bio-Bio,266003692,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+5594,2022,Concepción,Inscrito,2020.0,Soltero,2002-01-30,Venezolana,Comercial,5.4,Viii - Bio-Bio,266212321,Masculino,Municipal,Tecnico Profesional,20,False
+10989,2023,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-04-16,Venezolana,Cent.De Educación Integ.Adult.Nahuelquin,6.6,Viii - Bio-Bio,266897529,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+5702,2022,Talcahuano,Inscrito,2020.0,Soltero,2002-10-26,Venezolana,Almirante Pedro Espina Ritche,5.6,Viii - Bio-Bio,268362827,Masculino,Municipal,Cientifico Humanista,20,False
+379,2021,Coquimbo,Inscrito,2005.0,Soltero,1987-05-03,Chilena,Ministerio De Educación,5.5,Iv - Coquimbo,16599485K,Masculino,Organizaciones del Gobierno,Cientifico Humanista,34,False
+1026,2013,Concepcion,Inscrito,2007.0,Soltero,1989-04-26,Chilena,L.Enrique Molina Garmendia,4.9,Viii - Bio-Bio,17046284K,Masculino,Municipal,Cientifico Humanista,24,False
+1468,2019,Concepcion,Inscrito,2009.0,Soltero,1992-01-15,Chilena,L.Tec. Prof. Alonso De Ercilla Y Zuñ,5.8,Viii - Bio-Bio,17912940K,Masculino,Municipal,Tecnico Profesional,27,False
+1028,2015,Penco,Inscrito,2011.0,Soltero,1992-10-02,Chilena,L.De Niñas,5.6,Viii - Bio-Bio,18069899K,Femenino,Municipal,Cientifico Humanista,23,False
+1,2018,Talcahuano,Inscrito,2011.0,Soltero,1993-02-21,Chilena,L.Las Salinas,5.0,Viii - Bio-Bio,18386825K,Masculino,Municipal,Cientifico Humanista,25,False
+2000,2019,Hualpen,Inscrito,2010.0,Soltero,1993-03-02,Chilena,L.De Niñas,5.5,Viii - Bio-Bio,18387179K,Femenino,Municipal,Cientifico Humanista,26,False
+1190,2021,Coronel,Inscrito,2012.0,Soltero,1993-08-03,Chilena,L.Indust. Metodista De Coronel,4.9,Viii - Bio-Bio,18411304K,Masculino,Particular Subvencionado,Tecnico Profesional,28,False
+5713,2022,Concepción,Inscrito,2011.0,Divorciado,1993-10-25,Chilena,Inst. Nacional Del Calzado,5.1,Viii - Bio-Bio,18623670K,Masculino,Particular Subvencionado,Tecnico Profesional,29,False
+1107,2018,Penco,Inscrito,2013.0,Soltero,1994-10-29,Chilena,Rios De Chile,5.1,Viii - Bio-Bio,18685909K,Masculino,Municipal,Tecnico Profesional,24,False
+10743,2023,Concepción,Inscrito,2012.0,Soltero,1994-08-08,Chilena,L.Jorge S.Chez Ugarte,5.8,Viii - Bio-Bio,18809564K,Masculino,Particular Subvencionado,Tecnico Profesional,29,False
+7,2019,Concepcion,Inscrito,2013.0,Soltero,1994-09-27,Chilena,Ctro. De Educ.  Adultos Pitagoras,6.0,Viii - Bio-Bio,18810178K,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+2009,2019,Ancud,Inscrito,2012.0,Soltero,1995-01-12,Chilena,"L.Comercial ""El Pilar""",5.7,X - De Los Lagos,18902388K,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+2807,2019,Tome,Inscrito,2012.0,Soltero,1995-04-03,Chilena,L.Jorge S.Chez Ugarte,5.7,Viii - Bio-Bio,19028400K,Masculino,Particular Subvencionado,Tecnico Profesional,24,False
+20,2020,Penco,Inscrito,2018.0,Soltero,2001-03-23,Chilena,L.Pencopolitano,6.4,Viii - Bio-Bio,19157396K,Masculino,Municipal,Tecnico Profesional,19,False
+288,2021,Penco,Inscrito,2020.0,Soltero,2002-11-20,Chilena,El Refugio,5.7,Viii - Bio-Bio,19157768K,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+393,2018,San Carlos,Inscrito,2014.0,Soltero,1996-11-07,Chilena,Sagrado Corazon De Jesus,5.2,Xvi - De Ñuble,19295181K,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+695,2017,Linares,Inscrito,2013.0,Soltero,1996-05-31,Chilena,Valentin Letelier,5.5,Vii - Maule,19346565K,Masculino,Municipal,Cientifico Humanista,21,False
+2801,2019,San Pedro De La Paz,Inscrito,2015.0,Soltero,1996-05-12,Chilena,Ctro. De Educ.  Adultos Pitagoras,5.5,Viii - Bio-Bio,19373331K,Masculino,Particular Subvencionado,Cientifico Humanista,23,True
+1651,2018,Chillan,Inscrito,2015.0,Soltero,1996-10-03,Chilena,Dario Salas,5.8,Viii - Bio-Bio,19416081K,Masculino,Particular Subvencionado,Educacion Basica,22,False
+1176,2021,Aysén,Inscrito,2015.0,Soltero,1996-11-06,Chilena,Colegio Madre Isabel Larrañaga,5.6,Xi - Aysen,19461313K,Masculino,Particular Subvencionado,Tecnico Profesional,25,False
+5632,2022,Concepcion,Inscrito,2014.0,Soltero,1996-12-21,Chilena,Los Acacios,5.6,Viii - Bio-Bio,19469041K,Masculino,Particular Subvencionado,Tecnico Profesional,26,False
+5709,2022,Arauco,Inscrito,2015.0,Soltero,1996-11-26,Chilena,Centro Integral De Adultos Paul Harris,5.1,Viii - Bio-Bio,19509151K,Masculino,Municipal,Tecnico Profesional,26,False
+5678,2022,Chiguayante,Inscrito,2015.0,Soltero,1997-04-30,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,4.8,Viii - Bio-Bio,19510431K,Masculino,Particular Subvencionado,Cientifico Humanista,25,False
+389,2017,Concepcion,Inscrito,2015.0,Soltero,1997-06-29,Chilena,Concepcion,5.0,Viii - Bio-Bio,19598591K,Masculino,Particular,Cientifico Humanista,20,False
+3040,2017,Tome,Inscrito,2015.0,Soltero,1997-08-27,Chilena,L.Polivalente Tome-Alto  ,5.2,Viii - Bio-Bio,19677100K,Femenino,Municipal,Tecnico Profesional,20,False
+15,2016,Coronel,Inscrito,2015.0,Soltero,1998-02-21,Chilena,L.Comercial Andres Bello Lopez,5.4,Viii - Bio-Bio,19811412K,Masculino,Municipal,Tecnico Profesional,18,False
+5653,2022,Lota,Inscrito,2015.0,Soltero,1998-01-22,Chilena,L.Politecnico Rosauro Sta. Rios,6.0,Viii - Bio-Bio,19814603K,Masculino,Municipal,Tecnico Profesional,24,False
+28,2020,Chiguayante,Inscrito,2015.0,Soltero,1998-04-25,Chilena,Colegio Aurora De Chile Sur,5.3,Viii - Bio-Bio,19835368K,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1621,2017,Talcahuano,Inscrito,2013.0,Soltero,1998-09-26,Chilena,Colegio Amanecer Talcahuano,5.3,Viii - Bio-Bio,19836679K,Femenino,Particular Subvencionado,Cientifico Humanista,19,False
+5484,2020,Concepcion,Inscrito,2016.0,Soltero,1998-06-02,Chilena,L.Comercial Enrique Oyarzun Mondaca,6.1,Viii - Bio-Bio,19907671K,Masculino,Particular Subvencionado,Tecnico Profesional,22,False
+597,2018,Concepcion,Inscrito,2017.0,Soltero,1998-11-27,Chilena,Domingo Sta. Maria,5.2,Viii - Bio-Bio,19909498K,Masculino,Municipal,Educacion Básica,20,False
+1220,2021,Hualpén,Inscrito,2016.0,Soltero,1999-05-04,Chilena,Marina De Chile,5.5,Viii - Bio-Bio,19989675K,Masculino,Municipal,Cientifico Humanista,22,False
+1624,2017,Concepcion,Inscrito,2016.0,Soltero,1999-04-23,Chilena,L.Salesiano Domingo Savio,5.0,Viii - Bio-Bio,20023040K,Femenino,Particular Subvencionado,Cientifico Humanista,18,False
+5613,2022,Tomé,Inscrito,2016.0,Soltero,1998-10-26,Chilena,L.Vicente Alberto Palacios Valdes,5.9,Viii - Bio-Bio,20101137K,Masculino,Municipal,Cientifico Humanista,24,False
+2030,2019,Lota,Inscrito,2018.0,Soltero,1999-06-27,Chilena,L.Indust. Metodista De Coronel,5.0,Viii - Bio-Bio,20149608K,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1146,2020,Hualpén,Inscrito,2019.0,Soltero,1999-02-17,Chilena,Ctro. De Educ.  Adultos Pitagoras,4.9,Viii - Bio-Bio,20154078K,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+388,2018,Penco,Inscrito,2017.0,Soltero,1999-09-07,Chilena,L.Pencopolitano,5.6,Viii - Bio-Bio,20155604K,Masculino,Municipal,Tecnico Profesional,19,False
+5716,2022,Talcahuano,Inscrito,2019.0,Soltero,1999-09-12,Chilena,Cent.De Educación Integ.Adult.Nahuelquin,5.5,Viii - Bio-Bio,20155652K,Masculino,Particular Subvencionado,Tecnico Profesional,23,False
+2018,2019,Coronel,Inscrito,2017.0,Soltero,1999-08-30,Chilena,Col.Amanecer,5.5,Viii - Bio-Bio,20195424K,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+1126,2021,Hualqui,Inscrito,2019.0,Soltero,1999-09-27,Chilena,L.S. Bautista De Hualqui,5.2,Viii - Bio-Bio,20195780K,Masculino,Municipal,Tecnico Profesional,22,False
+1614,2018,San Pedro De La Paz,Inscrito,2017.0,Soltero,2000-01-31,Chilena,S. Jose,5.9,Viii - Bio-Bio,20196833K,Masculino,Particular Subvencionado,Educacion Basica,18,False
+994,2020,Concepcion,Inscrito,2018.0,Soltero,2000-02-02,Chilena,Col.Ingles British Royal School,5.5,Viii - Bio-Bio,20271692K,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5734,2022,Concepción,Inscrito,2021.0,Soltero,2000-09-20,Chilena,C. Ed. Int. De Ad. Janequeo-Concepcion,5.6,Viii - Bio-Bio,20277752K,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+10740,2023,Concepción,Inscrito,2019.0,Soltero,2000-07-25,Chilena,Colegio Marcela Paz,5.6,Viii - Bio-Bio,20362266K,Masculino,Particular Subvencionado,Cientifico Humanista,23,False
+1973,2019,Tome,Inscrito,2017.0,Soltero,2000-02-21,Chilena,L.Vicente Alberto Palacios Valdes,6.3,Viii - Bio-Bio,20437578K,Masculino,Municipal,Cientifico Humanista,19,False
+1708,2018,Talcahuano,Inscrito,2017.0,Soltero,2000-04-01,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,20437872K,Masculino,Municipal,Tecnico Profesional,18,False
+1147,2020,Concepción,Inscrito,2018.0,Soltero,2000-08-29,Chilena,Republica De Israel,6.2,Viii - Bio-Bio,20487543K,Masculino,Municipal,Educacion Básica,20,True
+1077,2020,Concepción,Inscrito,2018.0,Soltero,2000-10-28,Chilena,Liceo Tecnico Profesional La Araucana,5.7,Viii - Bio-Bio,20487607K,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1222,2021,Hualpén,Inscrito,2019.0,Soltero,2000-11-28,Chilena,L.Indust. De La Const. Hernan Val,5.0,Viii - Bio-Bio,20487624K,Masculino,Particular Subvencionado,Tecnico Profesional,21,False
+1593,2020,Yungay,Inscrito,2018.0,Soltero,2001-02-13,Chilena,L.Yungay,5.4,Xvi - De Ñuble,20535770K,Masculino,Municipal,Tecnico Profesional,19,False
+1243,2021,Tomé,Inscrito,2018.0,Soltero,2000-09-10,Chilena,L.Salesiano Domingo Savio,5.6,Viii - Bio-Bio,20541147K,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+11824,2023,Talcahuano,Inscrito,2020.0,Soltero,2001-05-16,Chilena,Col.Etchegoyen  ,5.6,Viii - Bio-Bio,20680727K,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+438,2020,Chiguayante,Inscrito,2018.0,Soltero,2001-03-15,Chilena,L.Mauricio Holchschild Del Ceat,6.2,Viii - Bio-Bio,20697754K,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+297,2021,Chiguayante,Inscrito,2019.0,Soltero,2001-06-20,Chilena,L.Indust. Del Bio Bio,5.2,Viii - Bio-Bio,20698595K,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+431,2020,Concepción,Inscrito,2019.0,Soltero,2001-07-26,Chilena,L.Mauricio Holchschild Del Ceat,5.5,Viii - Bio-Bio,20738612K,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+10995,2023,Concepción,Inscrito,2021.0,Soltero,2001-08-21,Chilena,Colegio Adultos Renacer,5.4,Viii - Bio-Bio,20738805K,Masculino,Particular Subvencionado,Cientifico Humanista,22,False
+1201,2021,Hualpén,Inscrito,2019.0,Soltero,2001-07-06,Chilena,Liceo Tecnico Profesional La Araucana,5.4,Viii - Bio-Bio,20783971K,Masculino,Particular Subvencionado,Tecnico Profesional,20,False
+1088,2020,Angol,Inscrito,2019.0,Soltero,2001-08-09,Chilena,L.Enrique Ballacey Cottereau,5.7,Ix - La Araucania,20872326K,Masculino,Municipal,Cientifico Humanista,19,False
+5637,2022,Talcahuano,Inscrito,2019.0,Soltero,2001-11-15,Chilena,Talcahuano,6.1,Viii - Bio-Bio,20913053K,Masculino,Particular Subvencionado,Cientifico Humanista,21,False
+5349,2022,Tomé,Inscrito,2020.0,Soltero,2001-10-31,Chilena,L.Polivalente Tome-Alto  ,5.5,Viii - Bio-Bio,20917846K,Masculino,Municipal,Tecnico Profesional,21,False
+5681,2022,Linares,Inscrito,2019.0,Soltero,2001-11-24,Chilena,E. Concentrada De Parral,5.3,Vii - Maule,20918138K,Masculino,Municipal,Cientifico Humanista,21,False
+1096,2020,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-04-15,Chilena,Juan Bosco,5.3,Viii - Bio-Bio,20928183K,Femenino,Particular Subvencionado,Educacion Basica,18,False
+1154,2021,San Pedro De La Paz,Inscrito,2020.0,Soltero,2002-09-20,Chilena,Juan Bosco,5.1,Viii - Bio-Bio,20928474K,Masculino,Particular Subvencionado,Educacion Basica,19,False
+1127,2021,Los Álamos,Inscrito,2020.0,Soltero,2002-09-27,Chilena,Caupolican De Los Alamos,6.4,Viii - Bio-Bio,20930144K,Masculino,Municipal,Tecnico Profesional,19,False
+21,2020,San Pedro De La Paz,Inscrito,2019.0,Soltero,2001-12-19,Chilena,Los Acacios,5.6,Viii - Bio-Bio,20940169K,Masculino,Particular Subvencionado,Tecnico Profesional,19,False
+449,2020,Penco,Inscrito,2019.0,Soltero,2002-01-12,Chilena,L.Pencopolitano,5.8,Viii - Bio-Bio,20951379K,Femenino,Municipal,Tecnico Profesional,18,False
+5591,2022,Coronel,Inscrito,2019.0,Soltero,2002-03-22,Chilena,Coronel,5.2,Viii - Bio-Bio,20991283K,Femenino,Municipal,Cientifico Humanista,20,True
+10744,2023,Cañete,Inscrito,2022.0,Soltero,2003-09-13,Chilena,L.Pol. Jose De La Cruz Miranda Corre,5.9,Viii - Bio-Bio,21098965K,Masculino,Municipal,Cientifico Humanista,20,False
+5727,2022,Concepción,Inscrito,2020.0,Soltero,2002-12-04,Chilena,Colegio Santa Luisa De Concepcion,5.6,Viii - Bio-Bio,21188682K,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+11726,2023,Tomé,Inscrito,2021.0,Soltero,2003-02-05,Chilena,L.Polivalente Tome-Alto  ,5.7,Viii - Bio-Bio,21230817K,Masculino,Municipal,Cientifico Humanista,20,False
+1212,2021,Cañete,Inscrito,2020.0,Soltero,2003-04-10,Chilena,L.Pol. Jose De La Cruz Miranda Corre,5.7,Viii - Bio-Bio,21276258K,Masculino,Municipal,Cientifico Humanista,18,False
+11811,2023,Lota,Inscrito,2021.0,Soltero,2003-07-31,Chilena,"Col.Padre Manuel D""Alzon  ",6.0,Viii - Bio-Bio,21359141K,Masculino,Particular Subvencionado,Cientifico Humanista,20,False
+5353,2022,Lota,Inscrito,2021.0,Soltero,2003-09-04,Chilena,Thompson Matthews,5.6,Viii - Bio-Bio,21383942K,Masculino,Municipal,Educacion Básica,19,False
+5363,2022,Talcahuano,Inscrito,2021.0,Soltero,2003-12-15,Chilena,L.Comercial De Talcahuano,5.7,Viii - Bio-Bio,21465508K,Masculino,Municipal,Tecnico Profesional,19,False
+11810,2023,Linares,Inscrito,2021.0,Soltero,2004-02-08,Chilena,Escuela Alameda Linares,5.6,Vii - Maule,21504324K,Masculino,Municipal,Cientifico Humanista,19,False
+10741,2023,Hualpén,Inscrito,2022.0,Soltero,2004-09-30,Chilena,Colegio Salesiano De Concepcion,6.5,Viii - Bio-Bio,21673677K,Masculino,Particular Subvencionado,Cientifico Humanista,19,False
+11013,2023,Tomé,Inscrito,2022.0,Soltero,2004-10-30,Chilena,L.Comercial De Tome,5.5,Viii - Bio-Bio,21699454K,Masculino,Municipal,Tecnico Profesional,19,False
+11745,2023,Chiguayante,Inscrito,2023.0,Soltero,2005-01-17,Chilena,Colegio Pacific School,5.4,Viii - Bio-Bio,21754713K,Masculino,Particular Subvencionado,Cientifico Humanista,18,False
